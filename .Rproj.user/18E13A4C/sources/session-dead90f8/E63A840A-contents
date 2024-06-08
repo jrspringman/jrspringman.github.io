@@ -1,0 +1,48 @@
+---
+title: "Research"
+slug: research
+date: last-modified
+citeproc: true
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+### Academic Publications
+
+<p><strong>The Political Economy of NGO Service Provision: Evidence from an Ancillary Field Experiment in Uganda</strong><br /><i>World Politics</i> 74, no. 4 (October 2022). [<a href="https://web.sas.upenn.edu/jeremyspringman/files/2022/08/the-political-economy-of-ngo-service-provision-evidence-from-an-ancillary-field-experiment-in-uganda.pdf" target="_blank" rel="noopener">paper</a>][<a href="https://web.sas.upenn.edu/jeremyspringman/files/2022/08/S0043887122000107sup001.pdf" target="_blank" rel="noopener">appendix</a>][<a href="https://osf.io/vsqmp" target="_blank" rel="noopener">PAP</a>][<a href="https://www.doi.org/10.1017/S0043887122000107" target="_blank" rel="noopener">online</a>][<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KW5KG1" target="_blank" rel="noopener">data</a>]</p>
+
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px; text-align: justify;">In developing countries, the share of basic services delivered by NGOs has grown dramatically due to increased receipt of aid and philanthropy. Many scholars and practitioners have worried that NGOs reduce reliance on government services, lowering demand for government provision and undermining political engagement. Others argue that NGOs prop-up poorly performing governments that receive undeserved credit for the production, allocation, or welfare effects of NGO services. Using a randomized health intervention implemented parallel to a similar universal government program, I investigate the effect of NGO provision on political attitudes and behavior. Access to NGO services increased preferences for NGO provision relative to government provision. However, political engagement and perceptions of government legitimacy were unaffected. Instead, results suggests the intervention generated political credit for the incumbent President. I find evidence that citizens see NGOs as a resource controlled by powerful government actors, and they reward actors seen as responsible for allocation.</p>
+:::
+
+::: {.g-col-4}
+![](/files/img/wp.png)
+:::
+:::
+
+<p><strong>The Effect of Government Repression on Civil Society: Evidence from Cambodia</strong><br />
+<i>International Studies Quarterly, 2022, 66.</i> [<a href="https://web.sas.upenn.edu/jeremyspringman/files/2022/08/sqac028.pdf" rel="attachment noopener wp-att-109" target="_blank">paper</a>][<a href="https://web.sas.upenn.edu/jeremyspringman/files/2022/08/sqac028_final_appendix.pdf" rel="attachment noopener wp-att-109" target="_blank">appendix</a>][<a href="https://osf.io/854tw" target="_blank" rel="noopener">PAP</a>][<a href="https://academic.oup.com/isq/article-abstract/66/3/sqac028/6631078?redirectedFrom=fulltext" rel="attachment noopener wp-att-109" target="_blank">online</a>]<br />
+with Edmund Malesky, Lucy Right, and Erik Wibbels</p>
+
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px; text-align: justify;">NGOs are a core component of a robust civil society and operate in a wide variety of sectors, ranging from service delivery to political advocacy. However, research has yet to systematically investigate whether the impact of government repression varies across NGO activities. We hypothesize that advocacy NGOs are more affected by repression than those in service delivery. Surveying 176 employees from 106 NGOs in Cambodia, we employ a conjoint experiment to examine how the level of repression affects a task crucial to NGOs’ survival: obtaining funding via grant applications. We find that while increases in the severity of repression appears to have a stronger deterrent effect for advocacy NGOs, repression has a large deterrent effect on service NGOs as well. Interviews and text analysis of open-ended questions suggest that local officials target both advocacy and service delivery NGOs, but for different reasons. Our findings speak to the spread of authoritarianism and the challenges NGOs face in countries with closing civic spaces.</p>
+:::
+::: {.g-col-4}
+![](/files/img/isq.png)
+:::
+:::
+
+<p><strong>Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda</strong><br />
+<i>Political Science Research and Methods, 2023</i> [<a href="https://doi.org/10.1017/psrm.2023.14" target="_blank" rel="noopener">paper</a>] [<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265#supplementary-materials" target="_blank" rel="noopener">appendix</a>]<br />
+with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px; text-align: justify;">It is widely believed that oil discoveries cause bad governance and conflict. However, research on the political resource curse argues that oil often increases support for incumbent chief executives while the conflict curse literature suggests it erodes it, especially when discovered in opposition areas. We draw on research on distributive politics to theorize how the effects of oil on incumbent support will vary depending on whether it is discovered in core, swing, or opposition constituencies. Our findings, based on electoral and survey data from Uganda and a difference-in-differences design with heterogeneous effects, show that differential voter responsiveness to targeted oil benefits increased support for the incumbent when oil is discovered in swing constituencies. Ultimately, we highlight how the local political context shapes the effect of oil on the strength of support for the incumbent chief executive, with important implications for understanding the roots of both the political and conflict curses.</p>
+:::
+::: {.g-col-4}
+![](/files/img/psrm.jpg)
+:::
+:::
