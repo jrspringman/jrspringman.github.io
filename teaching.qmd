@@ -1,0 +1,19 @@
+---
+title: "Teaching"
+slug: public
+citeproc: true
+output:
+  blogdown::html_page:
+      toc: TRUE
+---
+
+### University of Pennsylvania
+
+At UPenn, I teach PSCI3200 - Global Development: Intermediate Topics in Politics, Policy, and Data. This course provides an introduction to data analysis methods, inferential techniques, and computational tools in the context of contemporary development research. I taught this course in Spring 2024 and plan to teach this course again in Spring 2025. Materials for the course and source code are available on the course website: [jrspringman.github.io/psci3200-globaldev/](jrspringman.github.io/psci3200-globaldev/)
+
+In Spring 2024 I was also a Fels Institute of Government Lab Capstone Partner, working with an MBA/MPA student on a project using novel data and large language models to study Russian influence on developing countries.
+
+
+### US Agency for International Development
+
+I currently serve at the Academic Lead on the Local Evaluation and Evidence Support (LEES) activity supports efforts by the USAID Bureau for Policy, Planning, and Learning (PPL) to promote localization of USAID activities by increasing the capacity of local partners and strengthening networks that connect these organizations. 

@@ -10,5 +10,18 @@
   },
   "research.qmd": {
     "research.html": "7eaec2f2"
+  },
+  "projects.qmd": {
+    "projects.html": "e654e444"
+  },
+  "cv.qmd": {
+    "cv.tex": "7f751da0",
+    "cv.html": "cca83ea3"
+  },
+  "public.qmd": {
+    "public.html": "3897dd9d"
+  },
+  "teaching.qmd": {
+    "teaching.html": "c2dc5b55"
   }
 }

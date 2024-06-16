@@ -1,0 +1,35 @@
+---
+title: "Public Engagement"
+slug: public
+sidebar: false
+toc: false
+---
+
+### World Bank EngageFest webinar
+
+The Machine Learning for Peace (MLP) was featured in the World Bank's EngageFest webinar a using AI analytics for citizen engagement . Watch the recording to learn about three case studies of projects using AI/ML for civic engagement and to hear a panel discussion of these issues
+
+{{< video https://vimeo.com/885720507 >}}
+
+
+### Interview for the Ethical AI Manifesto
+
+An interview with MLP’s Jeremy Springman (Director of Civic Research) was featured in the [Civil Society Manifesto for Ethical AI](https://www.forus-international.org/en/pdf-detail/106205-civil-society-manifesto-for-ethical-ai) , published by Foris International. The manifesto aims to give voice to a diverse group of civic actors working on subjects that are being affected by ongoing advances in AI. The interview focuses on how MLP uses machine learning to provide digital tools designed to help civil society.
+
+
+### Evidence for Impact Webinar Series
+
+The Machine Learning for Peace (MLP) was featured in the Promise and Perils of Data Science for Development webinar as part of the [Social Impact Evidence for Impact Webinar Series](https://socialimpact.com/evidence-for-impact-webinar-series/). The webinar discussed how data science can be used to improve development effectiveness. The presentation concluded with critical reflections from within USAID on the promise and pitfalls of using data science for development.
+
+{{< video https://www.youtube.com/watch?v=INREs1yW2Zc&t=1s >}}
+
+
+### Panel discussion at the Paris Peace Forum
+
+The Machine Learning for Peace (MLP) project was one of 60 projects hosted at the 2022 [Paris Peace Forum](https://parispeaceforum.org/en/projects/machine-learning-for-peace/) in November. Below is a video of the panel discussion during the Forum’s AI in International Development roundtable discussion.
+
+{{< video https://www.youtube.com/watch?v=8yaz4zK5Gqk&t=1s >}}
+
+
+
+

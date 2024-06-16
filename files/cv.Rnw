@@ -1,0 +1,309 @@
+\documentclass[11pt]{article} 
+
+\usepackage{helvet}
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+\usepackage{subcaption}
+\usepackage[margin=1in]{geometry}
+\addtolength{\topmargin}{0in}
+\pagenumbering{arabic}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\usepackage[font=small,skip=2pt]{caption}
+\usepackage{multicol}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage[misc]{ifsym}
+\usepackage{enumitem}
+\usepackage[compact]{titlesec}
+\usepackage{longtable}
+\usepackage{academicons}
+\usepackage{datetime}
+\renewcommand{\today}{\monthname[\the\month] \the\year}
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+\begin{multicols}{2}
+{\Large {\bf Jeremy Springman}}\\
+PDRI-DevLab\\
+%Perelman Center for Political Science \& Economics\\
+University of Pennsylvania\\
+Updated \today \\
+
+\columnbreak
+\begin{flushright}
+
+\faEnvelope: \href{mailto:jspr@sas.upenn.edu}{jspr@sas.upenn.edu}\\
+\faLaptop: \url{web.sas.upenn.edu/jeremyspringman}\\
+\faGithub: \url{https://github.com/jrspringman}\\
+\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
+\end{flushright}
+\end{multicols}
+%\rule[0.9\baselineskip]{\textwidth}{.5pt}
+
+I am an applied researcher helping donors and civil society strengthen democratic institutions and practices in aid-receiving countries. Currently, I serve as co-PI on the Machine Learning for Peace (ML4P) project, teach a course on data science for global development, and lead several other USAID-funded research projects. To investigate these topics, my research uses machine learning techniques including natural language processing and forecasting and causal inference tools including field and survey experiments. I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
+\bigskip
+
+\textbf{\large Academic Appointments}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
+Research Assistant Professor & July 2024 -- Present\\
+Senior Research Associate \& Director of Civic Research & July 2022 -- June 2024\\
+\\
+
+\textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
+Senior Research Associate & July 2021 -- June 2022\\
+Post-Doctoral Research Associate & July 2019 -- June 2021\\
+Pre-Doctoral Research Associate & January 2019 -- July 2019\\
+\end{tabular*}
+
+
+\bigskip
+\textbf{\large Education}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{\href{https://www.sas.upenn.edu/polisci/}{University of Pennsylvania}}\\
+Ph.D. in Comparative Politics \& International Relations & 2019\\
+M.A. in Political Science & 2015\\
+ & \\
+\textbf{University of Pittsburgh}\\
+B.A. in Politics \& Philosophy (Honors College) & 2012
+\end{tabular*}
+
+
+\bigskip
+\textbf{\large Academic Publications}\\
+\rule[3mm]{\textwidth}{.2pt}
+{\sl The Political Economy of NGO Service Provision: Evidence from an Ancillary Field Experiment}\\
+\href{https://www.cambridge.org/core/journals/world-politics/article/abs/political-economy-of-ngo-service-provision/D5265B6C0EA842B788BCB309EF4E5178}{World Politics}, 2022 (DOI: S0043887122000107)
+
+{\sl The Effect of Government Repression on Civil Society: Evidence from Cambodia}\\
+\href{https://academic.oup.com/isq/article-abstract/66/3/sqac028/6631078?redirectedFrom=fulltext&login=false}{International Studies Quarterly}, 2022 (DOI: sqac028)\\
+First author (with Edmund Malesky, Lucy Right, and Erik Wibbels)
+
+{\sl Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda}\\
+Political Science Research \& Methods, 2023 (DOI: psrm.2023.14)\\
+Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
+
+\bigskip
+\textbf{\large Under Review}\\
+\rule[3mm]{\textwidth}{.2pt}
+{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}\\
+Revise \& Resubmit at World Politics
+
+{\sl The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies}\\
+with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
+
+\textbf{\large Selected Policy Reports}\\
+\rule[3mm]{\textwidth}{.2pt}
+
+{\sl Zimbabwe Governance Indicators Analysis}\\
+Prepared for USAID Zimbabwe\\
+March 2024
+
+{\sl Resurgent Authoritarian Influence: Evidence from Machine-Generated, Cross-National Data}\\
+Prepared for USAID Analytic Task on Authoritarian Resurgence and Influence\\
+August 2023
+
+{\sl Radio and Social Media in Ghana Assessment Report}\\
+Prepared for USAID Ghana\\
+July 2023 (DEC ID: coming soon)
+
+{\sl The Effect of Social Ties on Engagement \& Cohesion: Evidence from Ethiopian University Students}\\
+Prepared for USAID Innovation, Technology, \& Research Hub\\
+April 2023 (DEC ID: PA-021155)
+
+{\sl ResiliencyCambodia Impact Evaluation Findings Report}\\
+Prepared for USAID Cambodia\\
+August 2022 (DEC ID: PA-00Z-KBD)
+
+{\sl  Retrospective of USAID’s Response to Pandemic-Enabled Democratic Backsliding}\\
+Prepared for USAID Democracy, Human Rights, and Governance Center\\
+January 2022 (DEC ID: PA-00Z-6HN)
+
+\textbf{\large Policy Writing}\\
+\rule[3mm]{\textwidth}{.2pt}
+{\sl Charting a Course for Applied Research in Peacebuilding}\\
+First author (with Heather Huntington and Erik Wibbels)\\
+Prepared for United States Institute of Peace\\
+Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding''
+
+
+%{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
+%Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
+
+%{\sl ResiliencyCambodia Impact Evaluation Design Report}\\
+%Prepared for USAID Cambodia; January 2020 (DEC ID: PA-00W-CZ5)
+
+\bigskip
+\textbf{\large External Awards \& Grants}\\
+\rule[3mm]{\textwidth}{.2pt}
+\textbf{United States Agency for International Development (USAID) Bureau for Policy, Planning, and Learning}\\
+\hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
+
+\textbf{Open Society Foundations}\\
+\hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
+\bigskip
+
+\textbf{USAID Democracy, Human Rights, and Governance Bureau}
+\begin{itemize} \itemsep -5pt
+\item Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns: \$46,690
+\item Central American Regional Media Project Impact Evaluation: \$75,554 (Phase 1-2)
+\item Zimbabwe Governance Indicators Analysis: \$37,894
+\item Swift Expertise and Grounded Analytics: \$500,000*
+\item Analytic Task on Authoritarian Resurgence and Influence: \$99,737*
+\item INSPIRES Flexible Response Funds: \$83,000*
+\end{itemize}
+
+\textbf{University of Antwerp}\\
+\hspace{1em} Foreign Information Manipulation and Interference: \$12,500*$^{\ with\ Erik\ Wibbels}$
+
+\textbf{USAID Ghana Monitoring Evaluation and Learning (MEL) Platform}\\
+Radio Station Managers Survey: \$30,000*
+
+\textbf{USAID Innovation, Technology, and Research Hub}\\
+LASER PULSE (with Mesele Mengsteab, Juan Tellez, and David Dow): \$250,000
+
+\textbf{USAID Mission to Cambodia}\\
+Local Organizations—Movement Towards Self-Reliance: \$225,000*
+
+\textbf{National Science Foundation}\\
+2018 - 2019 Doctoral Dissertation Research Improvement Grant (SES-1747642): \$14,996
+
+\textbf{Anonymous private philanthropic foundation}\\
+2018 Research Grant: \$38,600
+
+\textbf{American Political Science Association Centennial Grant}\\
+2017 - 2018 Grant Recipient: \$1,100
+\bigskip
+
+\textbf{\large Ongoing Research Projects}\\
+\rule[3mm]{\textwidth}{.2pt}
+\textbf{Machine Learning for Peace}: Co-PI and Director of Civic Research\\
+The Machine Learning for Peace (MLP) produces digital tools that equip donors, policymakers, and civil society with actionable data to track major political events and forecasts about when major crises are likely to inform strategic planning. 
+
+\textbf{Central American Regional Media Project (ReMedios)}: Lead Investigator\\
+Under the ReMedios activity, DevLab is designing and implementing an evaluation of USAID programming meant to strengthen the capacity and security of journalists and media outlets working on issues related to corruption and government transparency across five countries in Central America. 
+
+%\textbf{Zimbabwe Governance Indicators Analysis}: Lead Investigator\\
+%Under the Zimbabwe Governance Indicators Analysis activity, DevLab is developing a rigorous methodology that will be used by US government agencies to evaluate the Government of Zimbabwe’s progress towards its democratic reform commitments.
+
+\bigskip
+\textbf{\large Teaching \& Advising}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+
+\textbf{University of Pennsylvania}\\
+
+Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024\\
+Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
+\\
+
+Fels Institute of Government Lab Capstone Partner & Spring 2024\\
+
+\end{tabular*}
+
+\textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead\\
+The LEES activity supports efforts by the Bureau for Policy, Planning, and Learning (PPL) to promote localization of USAID activities by increasing the capacity of local partners and strengthening networks that connect these organizations.
+
+
+
+
+\bigskip
+\textbf{\large Recent Invited Talks \& Events}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+International Civil Society Centre (Remote) & June, 2024\\
+
+Schloss Dagstuhl AI for Social Good Seminar (Wadern, Germany) & Feb, 2024\\
+
+Foris International Ethical AI Manifesto Launch Event (Remote) & Nov, 2023\\
+
+World Bank EngageFest Webinar (Remote) & Nov, 2023\\
+
+United States Department of State (Remote) & Jul, 2023\\
+
+Community of Democracies Group on Enabling and Protecting Civil Society (Remote) & Jun, 2023\\
+
+United Nations Data Strategy Community Series (Remote) & Jun, 2023\\
+
+United States Agency for International Development Tech Tuesdays Series (Remote) & Jun, 2023\\
+
+United States Army 95th Civil Affairs Brigade (Fort Liberty, NC) & Jun, 2023\\
+
+Social Impact Evidence for Impact Webinar Series (Remote) & May, 2023\\
+
+%\end{tabular*}
+%\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+
+Duke Center for International Development US Army Governance Training (Durham, NC) & Feb, 2023\\
+
+United States Agency for International Development DRG Center (Washington, D.C.) & Feb, 2023\\
+ 
+Vassar College Data Science \& Society Colloquium (Poughkeepsie, NY) & Dec, 2022\\
+ 
+Paris Peace Forum (Paris, France) & Nov, 2022\\
+
+International Civic Forum (London, UK) & Nov, 2022\\
+
+Big Data for Development \& Governance Conference (Philadelphia, PA) & Oct, 2022\\
+
+International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
+
+%United States Agency for International Development Moldova & Oct, 2022\\
+%\hspace{1em} Remote & \\
+
+\end{tabular*}
+
+\bigskip
+\textbf{\large References}\\
+\rule[3mm]{\textwidth}{.2pt}
+\begin{multicols}{2}
+Erik Wibbels\\
+Presidential Penn Compact Professor\\
+Founder, DevLab@Penn\\
+University of Pennsylvania\\
+ewibbels@sas.upenn.edu
+
+Guy Grossman\\
+Associate Professor of Political Science\\
+Director, Penn Development Research Initiative\\
+University of Pennsylvania\\
+ggros@sas.upenn.edu
+
+%Dorothy Kronick\\
+%Assistant Professor of Political Science\\
+%University of Pennsylvania\\
+% 133 S. 36\textsuperscript{th} Street\\
+% Philadelphia, PA 19104\\
+%215 - 898 - 7641\\
+%kronick@sas.upenn.edu
+
+%Devesh Kapur\\
+%Starr Foundation Professor\\
+%School of Advanced International Studies\\
+% 1740 Massachusetts Avenue\\
+% Washington, DC 20036\\
+%202 - 663 - 5600\\
+%dkapur1@jhu.edu
+
+
+% \columnbreak
+
+% Jessica Stanton ({\sl teaching reference})\\
+% Associate Professor of Public Affairs\\
+% University of Minnesota\\
+% % 301 19\textsuperscript{th} Street\\
+% % Minneapolis, MN 55455\\
+% 612 - 626 - 0728\\
+% stantonj@umn.edu
+
+
+\end{multicols}
+
+\end{document}

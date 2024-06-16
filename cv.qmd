@@ -1,0 +1,12 @@
+---
+title: "Curriculum Vitae"
+slug: cv
+sidebar: false
+toc: false
+---
+
+
+
+```{=html}
+<embed src="/files/cv.pdf" width="900px" height="1000px" />
+```

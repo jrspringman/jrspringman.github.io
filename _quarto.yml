@@ -6,6 +6,8 @@ project:
     - "!files/"
 
 website:
+  favicon: files/img/dl.png
+  open-graph: true
   title: ""
   navbar:
     left:
@@ -14,7 +16,8 @@ website:
       - research.qmd
       - projects.qmd
       - cv.qmd
-      - engagement.qmd
+      - public.qmd
+      - teaching.qmd
   page-footer:
       left: |
         Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
