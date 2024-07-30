@@ -14,10 +14,13 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - projects.qmd
-      - cv.qmd
-      - public.qmd
+      - href: cv.qmd
+        text: CV
       - teaching.qmd
+      - href: projects.qmd
+        text: "Ongoing<br>Projects"
+      - href: public.qmd
+        text: "Public<br>Engagement"
   page-footer:
       left: |
         Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>

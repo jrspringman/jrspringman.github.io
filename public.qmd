@@ -1,13 +1,19 @@
 ---
-title: "Public Engagement"
+title: "Invited Public Engagement"
 slug: public
 sidebar: false
 toc: false
 ---
 
+As an applied researcher, much of my work focuses on communicating findings from research to donors, policymakers, and civil society groups. Occasionally, I also receive invitations to participate or advise on 
+
+### Amnesty International Non-Profit Governance Advisory Panel
+
+I am currently serving on a panel of non-profit and legal experts to advise Amnesty International on ethical issues related to non-profit governance. 
+
 ### World Bank EngageFest webinar
 
-The Machine Learning for Peace (MLP) was featured in the World Bank's EngageFest webinar a using AI analytics for citizen engagement . Watch the recording to learn about three case studies of projects using AI/ML for civic engagement and to hear a panel discussion of these issues
+The Machine Learning for Peace (MLP) was featured in the World Bank's EngageFest webinar a using AI analytics for citizen engagement. Watch the recording to learn about three case studies of projects using AI/ML for civic engagement and to hear a panel discussion of these issues
 
 {{< video https://vimeo.com/885720507 >}}
 
@@ -31,5 +37,6 @@ The Machine Learning for Peace (MLP) project was one of 60 projects hosted at th
 {{< video https://www.youtube.com/watch?v=8yaz4zK5Gqk&t=1s >}}
 
 
+### 3ie Civil Society Evidence Gap Maps Advisory Group Member & 2023
 
-
+In 2023, I was a member of the [Adivisory Group](https://3ieimpact.org/sites/default/files/2023-03/Civil-society-Online-appendix-D.pdf) for the [3ie Civil Society Evidence](https://www.3ieimpact.org/evidence-hub/publications/evidence-gap-maps/strengthening-civil-society-evidence-gap-map).

@@ -13,14 +13,8 @@ instructor:
   appointment_url: https://calendly.com/jspr-m8a/office-hours
 
 course:
-  number: "PSCI 3200"
-  semester: "Spring 2024"
-  days: "Tue/Thu"
-  time: "3:30–4:59 PM"
-  location: "EDUC 201"
-  dates: "January 18th - May 1st"
-  github: "https://github.com/jrspringman/psci3200-globaldev"
-  url: "https://jrspringman.github.io/psci3200-globaldev/"
+  github: "https://github.com/jrspringman/jrspringman.github.io"
+  url: "https://jrspringman.github.io/"
   copyright_year: "2024"
   slack: "https://psci3200-globaldev.slack.com/ssb/signin_redirect"
   canvas: "https://canvas.upenn.edu/courses/1771152"
