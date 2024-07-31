@@ -21,7 +21,7 @@
 \usepackage{longtable}
 \usepackage{academicons}
 \usepackage{datetime}
-\renewcommand{\today}{\monthname[\the\month] \the\year}
+%\renewcommand{\today}{\monthname[\the\month] \the\year}
 
 \begin{document}
 \SweaveOpts{concordance=TRUE}
