@@ -21,7 +21,7 @@ Applying cutting edge tools, MLP identifies the events and locations being repor
 
 ### Central American Regional Media Project (ReMedios)
 
-Under the ReMedios activity, DevLab is designing and implementing an evaluation of USAID programming meant to strengthen the capacity and security of journalists and media outlets working on issues related to corruption and government transparency. This project will involve a three-wave panel survey of journalists across five countries in Central America, scraping and machine classification of online news, and training a large language model to identify markers of quality in corruption reporting.
+Under the ReMedios activity, DevLab is designing and implementing an evaluation of USAID programming meant to strengthen the capacity and security of journalists and media outlets working on issues related to corruption and government transparency. This project will involve a three-wave panel survey of journalists across four countries in Central America, scraping and machine classification of online news, and training a large language model to identify markers of quality in corruption reporting. See the [Design Report](files/LER III S3-01 ReMedios ROPE Design Report_REDACTED.pdf) for more details.
 
 ### Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns
 
