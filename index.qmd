@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Springman"
-subtitle: "Research Assistant Professor"
+# subtitle: "Research Assistant Professor"
 sidebar: false
 toc: false
 page-layout: full
