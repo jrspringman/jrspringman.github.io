@@ -276,7 +276,7 @@ International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
 
 
 \bigskip
-\textbf{\large Invited Service \& Public Engagement}\\
+\textbf{\large Invited Public Engagement}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 

@@ -78,7 +78,7 @@ with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer<br />
 :::
 :::
 
-<p><strong>Fostering civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia</strong><br />
+<p><strong>Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia</strong><br />
 with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez<br />
 [[paper](/files/ethiopia_ie.pdf){target="_blank"}][[appendix](/files/ethiopia_ie_appendix.pdf){target="_blank"}]</p>
 ::: {.grid  }
