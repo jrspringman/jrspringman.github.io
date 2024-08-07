@@ -56,6 +56,7 @@ MLP also maintains a Civic Space Early Warning System that uses machine-learning
 
 In related work with Internews and the International Foundation for Electoral Systems (IFES), I am leading a team in a project to detect reporting on government-initiated anti-corruption campaigns and use LLMs to identify their primary targets. Specifically, we will draw on the MLP infrastructure to detect reporting on legal measures to steam corruption (including arrests, legal actions, purges, and raids), identify anti-corruption campaigns by detecting large increases in reporting on corruption-related legal measures, and measure the extent to which these campaigns target regime opponents. This research will contribute to a growing literature on how autocracies can make reforms that are viewed as democratic but do not threaten their political survival.
 
+In collaboration with researchers in the Department of Political Science and the Department of Earth and Environmental Science, I serve as co-PI on a project that will generate original data measuring how vulnerable, developing countries respond and adapt to climate change, and the extent to which those adaptations succeed in promoting peace and stability. Using this data, we will model the relationship between climate change and adaptation at an unprecedented temporal (monthly) and geographic (district) scale. 
 
 ### Foreign Authoritarian Influence on Developing Countries
 
