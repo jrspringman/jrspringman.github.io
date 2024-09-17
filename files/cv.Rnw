@@ -138,6 +138,9 @@ January 2022 (DEC ID: PA-00Z-6HN)
 First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
 
+{\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
+With Mohamed Arafa and David Siegel\\
+Amnesty International\\
 
 %{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
 %Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
@@ -147,6 +150,12 @@ Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (Un
 
 \textbf{\large External Awards \& Grants}\\
 \rule[3mm]{\textwidth}{.2pt}
+
+\textbf{United States Department of Defense Minerva Research Initiative}\\
+\hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-
+Coded Environmental Event Data: \$1,500,000*$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
+
+
 \textbf{United States Agency for International Development (USAID) Bureau for Policy, Planning, and Learning}\\
 \hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
 
@@ -209,7 +218,7 @@ Using survey and lab-in-the field experiments, we test the efficacy of different
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
-\textbf{University of Pennsylvania}\\
+\textbf{University of Pennsylvania}: Instructor\\
 
 Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024\\
 Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
@@ -228,13 +237,13 @@ The LEES activity supports efforts by the Bureau for Policy, Planning, and Learn
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
-University of Innsbruck (Innsbruck, Austria) & Planned Sept, 2024\\
+Perry World House Forum (Washington, D.C.) & Oct, 2024\\
 
-University of Vienna (Vienna, Austria) & Planned Sept, 2024\\
+Vienna University of Economics and Business (Vienna, Austria) & Sept, 2024\\
 
 International Civil Society Centre (Remote) & June, 2024\\
 
-Schloss Dagstuhl AI for Social Good Seminar (Wadern, Germany) & Feb, 2024\\
+Schloss Dagstuhl \href{https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue02/24082/DagRep.14.2.182/DagRep.14.2.182.pdf}{AI for Social Good Seminar} (Wadern, Germany) & Feb, 2024\\
 
 Foris International Ethical AI Manifesto Launch Event (Remote) & Nov, 2023\\
 
@@ -252,8 +261,8 @@ United States Army 95th Civil Affairs Brigade (Fort Liberty, NC) & Jun, 2023\\
 
 Social Impact Evidence for Impact Webinar Series (Remote) & May, 2023\\
 
-%\end{tabular*}
-%\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\end{tabular*}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
 Duke University US Army Governance Training (Durham, NC) & Feb, 2023\\
 
@@ -280,7 +289,7 @@ International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
-Amnesty International Non-Profit Governance Advisory Panel Member & 2024\\
+Amnesty International Advisory Panel for the Governance of Human Rights Organizations & 2024\\
 
 Foris International Ethical AI Manifesto Contributor & 2024\\
 
