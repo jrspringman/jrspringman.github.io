@@ -155,16 +155,13 @@ Amnesty International\\
 \hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-
 Coded Environmental Event Data: \$1,500,000*$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
 
-
-\textbf{United States Agency for International Development (USAID) Bureau for Policy, Planning, and Learning}\\
-\hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
-
 \textbf{Open Society Foundations}\\
 \hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
 \bigskip
 
 \textbf{USAID Democracy, Human Rights, and Governance Bureau}
 \begin{itemize} \itemsep -5pt
+\item Tracking Authoritarian Resurgence and Democratic Institutions and Spaces: \$600,000*
 \item Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns: \$46,690
 \item Central American Regional Media Project Impact Evaluation: \$75,554 (Phase 1-2)
 \item Zimbabwe Governance Indicators Analysis: \$37,894
@@ -172,6 +169,9 @@ Coded Environmental Event Data: \$1,500,000*$^{\ with\ Erik\ Wibbels\ and\ Irian
 \item Analytic Task on Authoritarian Resurgence and Influence: \$99,737*
 \item INSPIRES Flexible Response Funds: \$83,000*
 \end{itemize}
+
+\textbf{United States Agency for International Development (USAID) Bureau for Policy, Planning, and Learning}\\
+\hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
 
 \textbf{University of Antwerp}\\
 \hspace{1em} Foreign Information Manipulation and Interference: \$12,500*$^{\ with\ Erik\ Wibbels}$
