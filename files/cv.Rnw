@@ -153,7 +153,7 @@ With Mohamed Arafa and David Siegel (for Amnesty International)\\
 
 \textbf{United States Department of Defense Minerva Research Initiative}\\
 \hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-
-Coded Environmental Event Data: \$1,500,000*$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
+Coded Environmental Event Data: \$1,500,000$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
 
 \textbf{Open Society Foundations}\\
 \hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
@@ -174,7 +174,7 @@ Coded Environmental Event Data: \$1,500,000*$^{\ with\ Erik\ Wibbels\ and\ Irian
 \hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
 
 \textbf{University of Antwerp}\\
-\hspace{1em} Foreign Information Manipulation and Interference: \$12,500*$^{\ with\ Erik\ Wibbels}$
+\hspace{1em} Foreign Information Manipulation and Interference: \$12,500*
 
 \textbf{USAID Ghana Monitoring Evaluation and Learning (MEL) Platform}\\
 Radio Station Managers Survey: \$30,000*
