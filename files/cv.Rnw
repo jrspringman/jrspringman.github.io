@@ -139,8 +139,8 @@ First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
 
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel\\
-Amnesty International\\
+With Mohamed Arafa and David Siegel (for Amnesty International)\\
+
 
 %{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
 %Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
@@ -195,20 +195,16 @@ Local Organizations—Movement Towards Self-Reliance: \$225,000*
 2017 - 2018 Grant Recipient: \$1,100
 \bigskip
 
-\textbf{\large Ongoing Funded Research Projects}\\
-\rule[3mm]{\textwidth}{.2pt}
-\textbf{Machine Learning for Peace}: Co-PI and Director of Civic Research\\
-The Machine Learning for Peace (MLP) produces digital tools that equip donors, policymakers, and civil society with actionable data to track major political events and forecasts about when major crises are likely to inform strategic planning. 
-
-\textbf{Central American Regional Media Project (ReMedios)}: Principal Investigator\\
-Drawing on the MLP infrastructure, this project uses webscraping and large language models to evaluate a USAID intervention to build the capacity of independent media reporting on corruption across five countries in Central America. 
-
-\textbf{Distinguishing Legitimate and Fabricated Anti-corruption Campaigns}: Principal Investigator\\
-Drawing on the MLP infrastructure, this project uses large language models to detect reporting on corruption-related legal measures, identify anti-corruption campaigns, and measure the extent to which legal measures indicate genuine or politically-motivated campaigns.  
-
-\textbf{Uganda Strategic Communication Utilization and Learning Activity}: Principal Investigator\\
-Using survey and lab-in-the field experiments, we test the efficacy of different messages in increasing support for democratic institutions and increasing civic participation. 
-
+% \textbf{\large Ongoing Funded Research Projects}\\
+% \rule[3mm]{\textwidth}{.2pt}
+% \textbf{Machine Learning for Peace}: Co-PI and Director of Civic Research\\
+% The Machine Learning for Peace (MLP) produces digital tools that equip donors, policymakers, and civil society with actionable data to track major political events and forecasts about when major crises are likely to inform strategic planning. 
+% 
+% \textbf{Central American Regional Media Project (ReMedios)}: Principal Investigator\\
+% Drawing on the MLP infrastructure, this project uses webscraping and large language models to evaluate a USAID intervention to build the capacity of independent media reporting on corruption across five countries in Central America. 
+% 
+% \textbf{Distinguishing Legitimate and Fabricated Anti-corruption Campaigns}: Principal Investigator\\
+% Drawing on the MLP infrastructure, this project uses large language models to detect reporting on corruption-related legal measures, identify anti-corruption campaigns, and measure the extent to which legal measures indicate genuine or politically-motivated campaigns.  
 
 %\textbf{Zimbabwe Governance Indicators Analysis}: Lead Investigator\\
 %Under the Zimbabwe Governance Indicators Analysis activity, DevLab is developing a rigorous methodology that will be used by US government agencies to evaluate the Government of Zimbabwe’s progress towards its democratic reform commitments.
