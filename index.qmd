@@ -11,7 +11,7 @@ format:
 course-logo: /files/img/stacked_logo_1.png
 ---
 
-<p>I am a researcher at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania. I also serve as co-PI on the <a href="https://web.sas.upenn.edu/mlp-devlab/" target="_blank" rel="noopener">Machine Learning for Peace</a> project and the Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-Coded Environmental Event Data project.</p>
+<p>I am a Research Assistant Professor at <a href="https://pdri-devlab.upenn.edu/" target="_blank" rel="noopener">PDRI-DevLab</a> at the University of Pennsylvania. I also serve as co-PI on the <a href="https://web.sas.upenn.edu/mlp-devlab/" target="_blank" rel="noopener">Machine Learning for Peace</a> project and the Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-Coded Environmental Event Data project.</p>
 
 ::: {.grid .about-me}
 ::: {.g-col-9 .g-col-md-9}

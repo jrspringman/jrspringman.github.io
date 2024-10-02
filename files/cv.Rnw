@@ -53,7 +53,7 @@ I am an applied researcher helping donors and civil society strengthen democrati
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
 Research Assistant Professor & July 2024 -- Present\\
-Senior Research Associate \& Director of Civic Research & July 2022 -- Present\\
+Senior Research Associate \& Director of Civic Research & July 2022 -- June 2024\\
 \\
 
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
