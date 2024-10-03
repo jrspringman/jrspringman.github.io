@@ -239,7 +239,7 @@ Vienna University of Economics and Business (Vienna, Austria) & Sept, 2024\\
 
 International Civil Society Centre (Remote) & June, 2024\\
 
-Schloss Dagstuhl \href{https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue02/24082/DagRep.14.2.182/DagRep.14.2.182.pdf}{AI for Social Good Seminar} (Wadern, Germany) & Feb, 2024\\
+Leibniz Center for Informatics \href{https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue02/24082/DagRep.14.2.182/DagRep.14.2.182.pdf}{AI for Social Good Seminar} (Wadern, Germany) & Feb, 2024\\
 
 Foris International Ethical AI Manifesto Launch Event (Remote) & Nov, 2023\\
 
