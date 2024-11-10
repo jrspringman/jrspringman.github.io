@@ -139,8 +139,8 @@ First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
 
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel (for Amnesty International)\\
-
+With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International)\\
+SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}}\\
 
 %{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
 %Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)

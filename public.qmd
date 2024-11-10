@@ -5,11 +5,17 @@ sidebar: false
 toc: false
 ---
 
-As an applied researcher, much of my work focuses on communicating findings from research to donors, policymakers, and civil society groups. Occasionally, I also receive invitations to participate or advise on 
+As an applied researcher, much of my work focuses on communicating findings from research to donors, policymakers, and civil society groups. Occasionally, I also receive invitations to advise these organizations on strategy and governance. 
 
 ### Amnesty International Advisory Panel for the Governance of Human Rights Organizations
 
-I am currently serving on a panel of non-profit and legal experts to advise Amnesty International on ethical issues related to non-profit governance. 
+I was invited to co-author the [Report of the Advisory Panel on the Governance of Human Rights Organizations](https://doi.org/10.31235/osf.io/7devb). Convened by Dr. Hazar Yueksel, Candidate Member of the Board of Directors at Amnesty International, this report synthesizes insights from social science research and legal studies to advise Amnesty International and other large, non-profit organizations on ethical issues related to non-profit governance. 
+
+
+### Interview for the Ethical AI Manifesto
+
+An interview with MLP’s Jeremy Springman (Director of Civic Research) was featured in the [Civil Society Manifesto for Ethical AI](https://www.forus-international.org/en/pdf-detail/106205-civil-society-manifesto-for-ethical-ai) , published by Foris International. The manifesto aims to give voice to a diverse group of civic actors working on subjects that are being affected by ongoing advances in AI. The interview focuses on how MLP uses machine learning to provide digital tools designed to help civil society.
+
 
 ### World Bank EngageFest webinar
 
@@ -17,10 +23,6 @@ The Machine Learning for Peace (MLP) was featured in the World Bank's EngageFest
 
 {{< video https://vimeo.com/885720507 >}}
 
-
-### Interview for the Ethical AI Manifesto
-
-An interview with MLP’s Jeremy Springman (Director of Civic Research) was featured in the [Civil Society Manifesto for Ethical AI](https://www.forus-international.org/en/pdf-detail/106205-civil-society-manifesto-for-ethical-ai) , published by Foris International. The manifesto aims to give voice to a diverse group of civic actors working on subjects that are being affected by ongoing advances in AI. The interview focuses on how MLP uses machine learning to provide digital tools designed to help civil society.
 
 
 ### Evidence for Impact Webinar Series
