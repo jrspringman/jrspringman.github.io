@@ -21,7 +21,7 @@
 \usepackage{longtable}
 \usepackage{academicons}
 \usepackage{datetime}
-%\renewcommand{\today}{\monthname[\the\month] \the\year}
+\renewcommand{\today}{\monthname[\the\month] \the\year}
 
 \begin{document}
 \SweaveOpts{concordance=TRUE}
@@ -45,8 +45,8 @@ Updated \today \\
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 
-I am an applied researcher helping donors and civil society strengthen democratic institutions and practices in aid-receiving countries. Currently, I serve as co-PI on projects funded by USAID and the Department of Defense, teach a course on data science for global development, and lead several other USAID-funded research projects. To investigate these topics, my research uses machine learning techniques including natural language processing and forecasting and causal inference tools including field and survey experiments. I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
-\bigskip
+I am an applied researcher helping donors and civil society strengthen democratic institutions and practices in aid-receiving countries. Currently, I serve as co-PI on projects funded by USAID and the Department of Defense, teach a course on data science for global development, and lead several other federally funded research projects. My research uses machine learning techniques including natural language processing and forecasting and causal inference tools including field and survey experiments. I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
+\smallskip
 
 \textbf{\large Academic Appointments}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -93,10 +93,9 @@ Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 \bigskip
 \textbf{\large Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
-{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}\\
-Revise \& Resubmit at World Politics
+{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
 
-{\sl Fostering civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
+{\sl Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
 with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
 
 {\sl The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies}\\
@@ -105,8 +104,20 @@ with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
 {\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
 with Lucille Right and Erik Wibbels
 
+{\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
+with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
+
 \textbf{\large Selected Policy Reports}\\
 \rule[3mm]{\textwidth}{.2pt}
+
+
+{\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and Large Language Model Classification}\\
+Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
+November 2024
+
+{\sl Forecasting High-Level Travel Advisories with Machine Learning for Peace Data}\\
+Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
+November 2024
 
 {\sl Zimbabwe Governance Indicators Analysis}\\
 Prepared for USAID Zimbabwe\\
@@ -139,8 +150,7 @@ First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
 
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International)\\
-SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}}\\
+With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International) SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
 
 %{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
 %Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
@@ -152,8 +162,7 @@ SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}}\\
 \rule[3mm]{\textwidth}{.2pt}
 
 \textbf{United States Department of Defense Minerva Research Initiative}\\
-\hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-
-Coded Environmental Event Data: \$1,500,000$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
+\hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-Coded Environmental Event Data: \$1,600,000$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
 
 \textbf{Open Society Foundations}\\
 \hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
@@ -161,7 +170,7 @@ Coded Environmental Event Data: \$1,500,000$^{\ with\ Erik\ Wibbels\ and\ Iriana
 
 \textbf{USAID Democracy, Human Rights, and Governance Bureau}
 \begin{itemize} \itemsep -5pt
-\item Tracking Authoritarian Resurgence and Democratic Institutions and Spaces: \$600,000*
+\item Tracking Authoritarian Resurgence and Democratic Institutions and Spaces: \$890,000*
 \item Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns: \$46,690
 \item Central American Regional Media Project Impact Evaluation: \$75,554 (Phase 1-2)
 \item Zimbabwe Governance Indicators Analysis: \$37,894
@@ -225,13 +234,15 @@ Fels Institute of Government Lab Capstone Partner & Spring 2024\\
 \end{tabular*}
 
 \textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead\\
-The LEES activity supports efforts by the Bureau for Policy, Planning, and Learning (PPL) to promote localization of USAID activities by increasing the capacity of local partners and strengthening networks that connect these organizations.
+LEES promotes localization of USAID activities by building the capacity of local partners and strengthening networks that connect these organizations.
 
 
 \bigskip
 \textbf{\large Recent Invited Talks \& Events}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+
+U.S. Department of State (Washington, D.C.) & Nov, 2024\\
 
 Perry World House Forum (Washington, D.C.) & Oct, 2024\\
 

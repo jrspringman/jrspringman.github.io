@@ -54,8 +54,7 @@ Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
 
 
 <p><strong>Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda</strong><br />
-[[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br />
-<i>Revise & Resubmit, World Politics</i></p>
+[[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br /></p>
 ::: {.grid  }
 ::: {.g-col-8}
 <p style="font-size: 15px; text-align: justify;">Most studies of electoral returns to foreign aid focus on projects implemented by aid-receiving governments and subject to political control. Recently, donors have sought to bypass political capture by channeling aid through NGOs. Combining fine-grained spatial data on aid and elections in Uganda, I show that although NGO-implementation reduces political influence, voters still reward incumbents for NGO projects. To isolate a causal effect, I use difference-in-differences designs, matching on covariates selected using machine learning, and a placebo test based on spatial lags. Using original survey data, I show that credit results from citizens seeing powerful politicians as controlling the allocation of NGO projects. Drawing on health, election, and campaign data and an extensive battery of tests, I provide additional evidence for the mechanism and rule-out alternative explanations. Even when designed to prevent political windfalls, development assistance may entail a trade-off between improving the welfare of citizens and strengthening autocrats.</p>
@@ -104,8 +103,31 @@ with Lucille Right and Erik Wibbels<br />
 :::
 :::
 
+<p><strong>Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence</strong><br />
+with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels<br />
+<!-- [[paper](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}] -->
+</p>
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px;  text-align: justify;">Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.</p>
+:::
+::: {.g-col-4}
+![](/files/img/changepoint_themes.png)
+:::
+:::
+
 
 ### Selected Policy Reports
+
+<p><strong>High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and Large Language Model Classification</strong> 
+[[Final Report](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2024/08/Presenting_MLP.pdf){target="_blank"}]<br />
+<span style="font-size: 15px; text-align: justify;">Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau; November 2024</span></p>
+<p style="font-size: 15px; text-align: justify;">Changes in politics and society – like protest movements, waves of arrests, corruption scandals, and legal changes- often happen quickly. Unfortunately, many of the standard indicators that researchers have to track civic space or regime characteristics are measured annually. In recent years, several big data approaches to measuring features of domestic and international politics at higher frequency have emerged, including GDELT and POLECAT. We present some of the advantages of tracking civic space using the Machine Learning for Peace (MLP) infrastructure. We apply customized scrapers to a curated sample of national news sources to provide a monthly measures of civic space activity. To process these articles, we apply large language model classification to track 20 different civic space event types. In this report, we provide a clear use case by comparing national and international news coverage of civic space events in 62 countries, highlighting the shortcomings of data sources that rely solely on international coverage.</p>
+
+<p><strong>Forecasting High-Level Travel Advisories with Machine Learning for Peace Data</strong> 
+[[Final Report](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2024/11/Forecasting-DOS-Travel-Advisories-with-Machine-Learning-for-Peace-Data-V2-internal.pdf){target="_blank"}]<br />
+<span style="font-size: 15px; text-align: justify;">Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau; November 2024</span></p>
+<p style="font-size: 15px; text-align: justify;">The Machine Learning for Peace (MLP) project at the University of Pennsylvania has developed a predictive model that accurately forecasts the issuance of high-level U.S. Department of State travel advisories up to six months in advance. Using temporal cross-validation and data on 20 civic space events across 60 developing countries from 2012 to 2023, the model identifies patterns in political conditions that precede advisories. This early warning system enables the U.S. government to better prepare for and respond to potential crises affecting U.S. citizens abroad.</p>
 
 <p><strong>Resurgent Authoritarian Influence: Evidence from Machine-Generated, Cross-National Data</strong> 
 [[Final Report](/files/rai_atari.pdf){target="_blank"}]<br />

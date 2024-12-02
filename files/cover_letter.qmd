@@ -1,0 +1,97 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+\end{flushleft}
+
+I am an applied researcher helping donors and civil society strengthen democratic institutions and practices in aid-receiving countries. My research investigates fundamental issues of political economy, advancing our understanding of how civil society can foster or undermine political accountability and democracy in countries where democratic institutions are weak or under attack. 
+
+I am an applied researcher helping donors and civil society strengthen democratic institutions and practices in aid-receiving countries. Currently, I serve as co-PI on projects funded by USAID and the Department of Defense, teach a course on data science for global development, and lead several other federally funded research projects. My research uses machine learning techniques including natural language processing and forecasting and causal inference tools including field and survey experiments. I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
+
+
+Reasons for applying
+* major user of reddit; structured to meet demands of growing/evolving internet
+* 
+
+This broader research agenda is comprised of several independent but highly related streams of work. The first two streams focus on using computational methods to produce and utilize novel data on civic space and foreign authoritarian influence in developing countries. Under a long-term project funded by USAID and Open Society Foundations, I have helped to produce innovative datasets and public dashboards that are widely used in the policy and practitioner communities. These datasets have been used to produce more than a dozen commissioned policy reports and two manuscripts introducing these datasets to the academic community are being prepared for submission to journals. 
+
+The third stream of work focuses on how non-governmental organizations (NGOs), characterized by diverse objectives and approaches, reshape the relationship between citizens and states, and how governments and NGOs interact and struggle over the extent of civic space. The fourth stream of work focuses on citizen engagement with politics and civil society and their attitudes toward democracy and democratic institutions. The final stream of work focuses on the media, and it's ability to inform the public in polarized and repressive contexts.
+
+To investigate these topics, my research uses machine learning techniques, including natural language processing and forecasting, and causal inference tools including field and survey experiments. I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
+
+My research has been published in World Politics, Political Science Research and Methods, and International Studies Quarterly, and I have produced commissioned policy reports for the United States Agency for International Development (USAID) Center for Democracy, Human Rights, and Governance; the Innovation, Technology, and Research Hub; the Analytic Task on Authoritarian Resurgence and Influence; the Bureau for Policy, Planning and Learning; and the Missions to Ethiopia, Cambodia, Ghana, and Zimbabwe. My work has received support from the Open Society Foundations, the National Science Foundation, and multiple bureaus within USAID, among others. 
+
+Occasionally, I receive invitations to participate or advise on the use of scientific methods and tools, including impact evaluations and artificial intelligence (AI), for global development. I am lead author on a book chapter commissioned by the United States Institute of Peace, which is forthcoming in “A Positive Peace: Towards an Evidence-Based Peacebuilding,” and my interview with Foris International was recently published in their ``Civil Society Manifesto for Ethical AI.'' In 2023, I was a member of the Advisory Group for the 3ie Civil Society Evidence Gap Map, and I am currently serving on a panel of non-profit and legal experts to advise Amnesty International on ethical issues related to non-profit governance.
+
+
+### Civic Space in Developing Countries
+
+Since 2019, I have been a core member of Machine Learning for Peace (MLP), a high-profile project that has contributed significantly to the reputation of Penn among members of the development policy community and international civil society. This project pioneered the use of large language models (LLMs) in social science research, demonstrating the ability to fine-tune open-source LLMs to execute difficult text classification tasks at a large scale across many languages. Furthermore, MLP produces the first systematic data critical civic space events, including politically-motivated defamation cases, legal changes, government censorship, and more.
+
+As Co-PI and Director of Civic Research, I helped grow MLP into a long-term initiative and have helped secure nearly $1 million in funding since moving to Penn in July 2022. I have given invited talks on this work for the the Leibniz Center for Informatics at Schloss Dagstuhl, Vasser College, University of Vienna, the US Army Special Forces at Fort Liberty, the US Department of State, multiple units at the US Agency for International Development, the World Bank, the United Nations Data Strategy Community, the Paris Peace Forum, and the International Center for Civil Society, among many others. 
+
+The novel data produced and maintained by MLP has also spurred multiple federally funded research projects, and is quickly becoming a critical source of data for development donors, policymakers and practitioners, ensuring additional research opportunities. Over the past 12 months, the MLP website received more than 3,500 unique visitors spread across 120 different countries, and the project has received more than 550 sign-ups to our monthly mailing list. 
+
+In addition to more than a dozen commissioned policy reports, the MLP team is preparing a manuscript that introduces this dataset to an academic audience. This paper describes our data production pipeline and documents massive differences in the type of events covered by international and regional media outlets relative to domestic outlets based in developing countries. In doing so, we provide systematic evidence on the limitations of media event-data that rely on international sources published in major languages. This manuscript will be submitted to a special edition of Nature Scientific Data by September 2024.
+
+MLP also maintains a Civic Space Early Warning System that uses machine-learning forecasting models to predict major civic space events. Over the last two years, approximately 70% of the events we forecasted occurred within one quarter of our prediction, demonstrating the utility of this research to practitioners. The MLP team is currently preparing an academic paper that demonstrates how MLP data can be combined with temporal cross-validation and ensemble forecasting models to make accurate predictions about major political events, including high-level travel warnings issued by the US State Department.
+
+In related work with Internews and the International Foundation for Electoral Systems (IFES), I am leading a team in a project to detect reporting on government-initiated anti-corruption campaigns and use LLMs to identify their primary targets. Specifically, we will draw on the MLP infrastructure to detect reporting on legal measures to steam corruption (including arrests, legal actions, purges, and raids), identify anti-corruption campaigns by detecting large increases in reporting on corruption-related legal measures, and measure the extent to which these campaigns target regime opponents. This research will contribute to a growing literature on how autocracies can make reforms that are viewed as democratic but do not threaten their political survival.
+
+In collaboration with researchers in the Department of Political Science and the Department of Earth and Environmental Science, I serve as co-PI on a project that will generate original data measuring how vulnerable, developing countries respond and adapt to climate change, and the extent to which those adaptations succeed in promoting peace and stability. Using this data, we will model the relationship between climate change and adaptation at an unprecedented temporal (monthly) and geographic (district) scale. 
+
+### Foreign Authoritarian Influence on Developing Countries
+
+Building on the MLP infrastructure, I also lead the development of a large dataset tracking foreign influence by authoritarian countries on developing countries. Under development for more than three years, this data now provides the first measures of several types of foreign influence, including technology transfers, media influence, diplomatic engagements, security force cooperation, and more. In addition to several commissioned policy reports, this data is being used by the European Union Institute for Security Studies to study how Russia uses media to influence public opinion. A manuscript introducing this dataset to academic researchers is undergoing final preparations for submission to an academic journal. In this paper, we document the ability of our data to detect changes in Russia's strategic engagement with developing countries in the months immediately preceding the 2022 invasion of Ukraine. 
+I am also co-author on an academic project that uses public opinion data and original survey experiments to investigate how citizens in developing countries view Chinese investments in information technology infrastructure. Preliminary results from a pilot study was recently presented at the International Studies Association, and we have received funding for full-scale data collection during the fall semester. The findings from this work provides new insights into how the public perceives different levels of risk from different types of foreign investment.
+
+### The Strategic Behavior and Impact of NGOs
+
+Another major component of my research agenda focuses on how NGOs impact, and are impacted by, governance in developing countries. My research on this topic has pioneered the use of experimental methods in the study of civil society. My earliest academic research used a downstream field experiment to demonstrate how NGO service delivery in sectors traditionally associated with the state complicates democratic accountability by generating credit for political incumbents. An extension of this work reinforcing the external validity of these findings using causal inference for observational data received an invitation to resubmit at World Politics. This research connects to broader agendas within comparative politics linking public service provision with accountability, the ability of civil society to effect political change, and the potential for civil society to challenge or advance the interests of political incumbents.
+
+In related work, I have used panel survey data and conjoint experiments to demonstrate similarities in how NGOs operating across different sectors experience government repression, as well as the strategies that NGO directors see as effective for resisting this repression. This research demonstrates how governments can use repression to channel NGOs activities away from those that threaten regime survival, but also suggests that NGOs possess certain tools to push-back against unwanted government interference. Another academic paper currently under review combined novel data on anti-NGO legislation with data on foreign aid disbursements to show that bilateral donors do not punish governments for the enactment of anti-NGO laws by withdrawing aid.
+
+Finally, I lead the first randomized impact evaluation of an NGO capacity building intervention. Despite the major investments made by donors in building the capacity of NGOs around the world, credible evidence on the efficacy of popular capacity-building tools has been lacking. In the context of a three year evaluation involving nearly 100 NGOs in Cambodia, findings presented in a commissioned policy report for USAID cast doubt on the ability of international actors to build domestic NGO capacity. 
+
+
+### Citizen Engagement and Democratic Attitudes in Autocratic Countries
+
+Building on my interest in civil society, other ongoing research investigates the factors that make citizens more or less likely to participate in democratic processes. In collaboration with Addis Ababa University, I was a lead investigator in a randomized control trial that designed and implemented an intervention to increase civic engagement and social cohesion among university students. Our intervention synthesized insights from the literatures on youth participation and social cohesion that have found social ties play a critical role in both outcomes. Our commissioned policy report to USAID documents the efficacy of our intervention for building social ties between politically-interested students and boosting their civic engagement behavior. An academic paper presenting these results is currently under review. Our team was also encouraged by the Fund for Innovation in Development to apply for $1.5 million in funding to scale these activities.
+
+I have also received funding to pursue related work in Uganda that will test various approaches to increase civic engagement by boosting perceptions of democracy and democratic institutions. Working with a team of researchers and practitioners, we are designing and experimentally testing the impact of pro-democracy narratives on the attitudes and behavior of citizens in Uganda. Using survey and lab-in-the field experiments, we test the efficacy of different messages in increasing support for democratic institutions and increasing civic participation.
+
+
+### Independent Media in Polarized and Repressive Contexts
+
+Another element of my research agenda focuses specifically in independent media and their ability to inform the public in polarized and repressive contexts. I am currently leading a rigorous evaluation of a USAID anti-corruption intervention in Central America. Under a five-year project funded by USAID, DevLab is designing and implementing an evaluation of USAID programming meant to strengthen the capacity and security of journalists and media outlets working on issues related to corruption and government transparency. This project will involve a three-wave panel survey of journalists across five countries in Central America, scraping and machine classification of online news, and training a large language model to identify markers of quality in corruption reporting.
+
+
+<!-- A recently completed project involving USAID and the University of Ghana surveyed 36% of all radio stations in Ghana  -->
+<!-- Ghana Survey evaluation -->
+
+
