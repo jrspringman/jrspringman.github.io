@@ -105,8 +105,7 @@ with Lucille Right and Erik Wibbels<br />
 
 <p><strong>Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence</strong><br />
 with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels<br />
-<!-- [[paper](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}] -->
-</p>
+[[paper](/files/rai_full_paper.pdf){target="_blank"}][[appendix](/files/rai_appendix.pdf){target="_blank"}]</p>
 ::: {.grid  }
 ::: {.g-col-8}
 <p style="font-size: 15px;  text-align: justify;">Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.</p>
@@ -117,7 +116,7 @@ with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Mora
 :::
 
 
-### Selected Policy Reports
+### Select Commissioned Policy Reports
 
 <p><strong>High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and Large Language Model Classification</strong> 
 [[Final Report](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2024/08/Presenting_MLP.pdf){target="_blank"}]<br />
