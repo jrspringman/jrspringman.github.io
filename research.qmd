@@ -25,7 +25,7 @@ output:
 <p><strong>The Effect of Government Repression on Civil Society: Evidence from Cambodia</strong><br />
 <i>International Studies Quarterly, 2022, 66.</i> 
 [[paper](/files/isq_2022.pdf){target="_blank"}][[appendix](/files/isq_2022_appendix.pdf){target="_blank"}][<a href="https://osf.io/854tw" target="_blank" rel="noopener">PAP</a>][<a href="https://academic.oup.com/isq/article-abstract/66/3/sqac028/6631078?redirectedFrom=fulltext" rel="attachment noopener wp-att-109" target="_blank">online</a>]<br />
-First author, with Edmund Malesky, Lucy Right, and Erik Wibbels</p>
+First author, with Edmund Malesky, Lucy Right, and Erik Wibbels<p />
 
 ::: {.grid  }
 ::: {.g-col-8}
@@ -52,6 +52,18 @@ Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
 
 ### Under Review
 
+<p><strong>Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation</strong><br />
+with Lucy Right and Erik Wibbels<br />
+Revise & Resubmit, *International Organization*<br />
+[[paper and appendix](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}]</p>
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px;  text-align: justify;">As authoritarianism has spread around the world, government efforts to stifle civic space have increased dramatically. Among the most alarming tactics has been the spread of restrictive laws targeting non-governmental organizations (NGOs). While such laws threaten the core objectives of many foreign donors, they have become especially common in aid-dependent nations. How do foreign donors react to this assault on their local and international development partners? Do their responses hinge on their commitment to promoting democracy? On one hand, democracy-focused donors might push back, ramping up support for advocacy in defiance of draconian measures. Alternatively, when restrictions make it difficult to work with local partners, donors might back down to aspiring autocrats by decreasing support for advocacy. Testing these arguments using dyadic data on aid flows, an original dataset of NGOs laws, and a variety of research designs, we find that the donors most committed to democracy promotion back down in the face of restrictive NGO laws, reducing support for advocacy work by over 70%. Our findings suggest that donor behavior creates strong incentives for governments in aid-receiving countries to use legal measures to crackdown on civil society.</p>
+:::
+::: {.g-col-4}
+![](/files/img/ngo_laws.png)
+:::
+:::
 
 <p><strong>Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda</strong><br />
 [[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br /></p>
@@ -91,17 +103,6 @@ with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez<b
 
 
 
-<p><strong>Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation</strong><br />
-with Lucille Right and Erik Wibbels<br />
-[[paper](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}]</p>
-::: {.grid  }
-::: {.g-col-8}
-<p style="font-size: 15px;  text-align: justify;">As authoritarianism has spread around the world, government efforts to stifle civic space have increased dramatically. Among the most alarming tactics has been the spread of restrictive laws targeting non-governmental organizations (NGOs). While such laws threaten the core objectives of many foreign donors, they have become especially common in aid-dependent nations. How do foreign donors react to this assault on their local and international development partners? Do their responses hinge on their commitment to promoting democracy? On one hand, democracy-focused donors might push back, ramping up support for advocacy in defiance of draconian measures. Alternatively, when restrictions make it difficult to work with local partners, donors might back down to aspiring autocrats by decreasing support for advocacy. Testing these arguments using dyadic data on aid flows, an original dataset of NGOs laws, and a variety of research designs, we find that the donors most committed to democracy promotion back down in the face of restrictive NGO laws, reducing support for advocacy work by over 70%. Our findings suggest that donor behavior creates strong incentives for governments in aid-receiving countries to use legal measures to crackdown on civil society.</p>
-:::
-::: {.g-col-4}
-![](/files/img/ngo_laws.png)
-:::
-:::
 
 <p><strong>Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence</strong><br />
 First author, with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels<br />
