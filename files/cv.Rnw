@@ -93,6 +93,10 @@ Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 \bigskip
 \textbf{\large Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
+{\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
+with Lucille Right and Erik Wibbels\\
+Revise \& Resubmit, \textit{International Organization}
+
 {\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
 
 {\sl Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
@@ -100,9 +104,6 @@ with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
 
 {\sl The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies}\\
 with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
-
-{\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
-with Lucille Right and Erik Wibbels
 
 {\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
 with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
