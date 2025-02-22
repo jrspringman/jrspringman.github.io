@@ -33,11 +33,31 @@ University of Pennsylvania\\
 
 <!-- https://american.wd1.myworkdayjobs.com/AU/job/Spring-Valley-Campus-Washington-DC/Research-Assistant-Professor---Executive-Director-of-PERIL_R2285 -->
 
-Polarization & Extremism Research & Innovation Lab (PERIL)
-- preventing radicalization to violent extremism by strengthening community resilience
-- public health approach to design, test, and scale-up evidence-based tools and strategies that effectively reduce the threat of radicalization to harmful online and offline content including conspiracy theories, mis/disinformation, propaganda, and supremacist ideologies
+<!-- I am an applied researcher helping policymakers, donors, and NGOs strengthen citizen engagement and civil society to build community resilience.  -->
 
-Experience:
+As an applied researcher with deep experience applying a public health approach to design, test, and deploy evidence-based solutions to complex social problems, I believe I am an ideal candidate to serve as Executive Director of the Polarization & Extremism Research & Innovation Lab. 
+
+Given the alarming rise in extremism, I would be honored to contribute to PERIL’s mission of reducing extremist violence.
+
+Eager to employ my comparative experience in countries as diverse as Serbia, Uganda, Ethiopia, Ghana, and Cambodia to 
+
+## Civil societty
+Working closely with civil society organizations. Deep collaboration with civil society organizations
+- Ethiopia: co-design of Tolerant Engagement Forums intervention 
+- Cambodia: first RCT evaluation of an NGO capacity-building intervention 
+- [Machine Learning for Peace](https://web.sas.upenn.edu/mlp-devlab/civic-space-data-and-forecasts/): long-term collaboration to develop actionable data and forecasts of political crises.
+
+
+## Management
+- Managing a team of data scientists, post-doctoral researchers, I used this data to publish more than a dozen policy reports, develop six public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries to our online forecasting system over a 12 month period, with more than 800 policymakers signing up to receive our monthly reports.
+
+## Substance
+While my research has focused on a range of topics related to civil society and , I have significant substantive background on issues related to building resilience to polarization, misinformation, and extremist violence
+- Ethiopia [RCT evaluation](https://jrspringman.github.io/files/ethiopia_ie.pdf)
+- Ghana [policy report](https://jrspringman.github.io/files/USAID_Ghana_MEL_Radio%20and%20Social%20Media%20Assessment_%20Report_Oct1-2023.pdf) on survey experiment of 200 radio station managers on the threat of misinformation and 
+
+## Experience
+My past experience lends itself to developing and testing interventions aimed at preventing radicalization and violent extremism in several ways. 
 - online survey experiments can be useful for interventions aimed at online content
 - field-based interventions in conflict settings can help with offline content
 - worked with international and local NGOs on long-term collaborations to design and test interventions and validate measures of important outcomes
@@ -45,7 +65,17 @@ Experience:
 - innovative approaches to measurement that include SOTA language models
 - managing extensive research staff including data scientists, postdocs, and undergraduates
 
-I am an applied researcher helping policymakers, donors, and NGOs strengthen citizen engagement and civil society to build community resilience. 
+## Job info
+
+Polarization & Extremism Research & Innovation Lab (PERIL)
+- preventing radicalization to violent extremism by strengthening community resilience
+- public health approach to design, test, and scale-up evidence-based tools and strategies that effectively reduce the threat of radicalization to harmful online and offline content including conspiracy theories, mis/disinformation, propaganda, and supremacist ideologies
+
+## Fundraising and Communication 
+
+I have years of experience communicating technical material to both technical and non-technical audiences and telling stories with data. After moving to UPenn in 2022, my research received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and private foundations. Winning extremely competitive federal grants required me to design high-impact research and communicate the design and results to both technical and non-technical audiences. This included regular presentations to non-technical policy audiences. I further developed these skills teaching [my undergraduate course](https://jrspringman.github.io/psci3200-globaldev/) introducing global development students to causal inference and data science tools and techniques.
+
+## Technical
 
 Currently, I serve as co-PI on projects funded by USAID and the Department of Defense, teach a course on data science for global development, and lead several other federally funded research projects. My research uses machine learning techniques including forecasting and large language models and causal inference tools including field and survey experiments. 
 
@@ -53,12 +83,17 @@ Currently, I serve as co-PI on projects funded by USAID and the Department of De
 I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
 
 
+identifying and recruiting partners in Ethiopian civil society and academia to 
 
-machine learning, causal inference, and computational research, I would be eager to contribute to Google’s mission of taking on technology's greatest challenges. In my role as Research Professor, I design and implement research to tackle complex measurement and inference challenges and generate actionable insights for policymakers. As Senior Data Scientist, I hope to use my deep experience developing novel approaches to measure attitudinal and behavioral outcomes across cultures and languages, while doing so in an industry setting where evidence can quickly be used for real-world impact.
+Despite the challenges of ongoing civil conflict and the onset of COVID-19
 
-I have years of experience communicating technical material to both technical and non-technical audiences and telling stories with data. After moving to UPenn in 2022, my research received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and private foundations. Winning extremely competitive federal grants required me to design high-impact research and communicate the design and results to both technical and non-technical audiences. This included regular presentations to non-technical policy audiences. I further developed these skills teaching [my undergraduate course](https://jrspringman.github.io/psci3200-globaldev/) introducing global development students to causal inference and data science tools and techniques.
 
-My background in measurement and metrics design equips me to conduct research to understand the behaviors of Google's end users. As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems. Managing a team of data scientists, post-doctoral researchers, I used this data to publish more than a dozen policy reports, develop six public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries to our online forecasting system over a 12 month period, with more than 800 policymakers signing up to receive our monthly reports.
+
+
+In my role as Research Professor, I design and implement research to tackle complex measurement and inference challenges and generate actionable insights for policymakers. As Senior Data Scientist, I hope to use my deep experience developing novel approaches to measure attitudinal and behavioral outcomes across cultures and languages, while doing so in an industry setting where evidence can quickly be used for real-world impact.
+
+
+My background in measurement and metrics design equips me to conduct research to understand the behaviors of Google's end users. As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems. 
 
 I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data. 
 
