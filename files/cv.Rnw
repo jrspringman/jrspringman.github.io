@@ -29,8 +29,7 @@
 
 \begin{multicols}{2}
 {\Large {\bf Jeremy Springman}}\\
-PDRI-DevLab\\
-%Perelman Center for Political Science \& Economics\\
+Research Assistant Professor\\
 University of Pennsylvania\\
 Updated \today \\
 
