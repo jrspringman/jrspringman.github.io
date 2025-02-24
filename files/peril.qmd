@@ -33,15 +33,24 @@ University of Pennsylvania\\
 
 <!-- https://american.wd1.myworkdayjobs.com/AU/job/Spring-Valley-Campus-Washington-DC/Research-Assistant-Professor---Executive-Director-of-PERIL_R2285 -->
 
-<!-- I am an applied researcher helping policymakers, donors, and NGOs strengthen citizen engagement and civil society to build community resilience.  -->
 
 As an applied researcher with deep experience designing, testing, and deploying evidence-based solutions to complex social problems, I am an ideal candidate to serve as Executive Director of the Polarization & Extremism Research & Innovation Lab. I possess the necessary expertise managing a social science research lab, including large-scale RCT-evaluations and long-term data collection projects using webscraping and cutting-edge AI, establishing long-term collaborations with civil society organizations, communicating technical material to policy audiences and integrating research and practice, securing funding from federal and private donors, and researching polarization and extremism across diverse and challenging contexts. 
 
-I would be honored to serve PERIL’s mission of reducing extremist violence. I am deeply alarmed by the rise of political extremism in the United States and around the world, and I am eager to employ my comparative background conducting field-based projects in conflict-affected countries including Serbia, Uganda, Ethiopia, Ghana, and Cambodia. 
+Currently, I serve as Research Assistant Professor at the University of Pennsylvania and Director of Civic Research for PDRI-DevLab. Since moving to UPenn in 2022, my has research received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and Open Society Foundations. 
+
+I am a co-PI on long-term projects leveraging recent advances in big data and machine learning to track foreign influence, forecast repression and social conflict and maintain a public-facing early warning system, and model how climate factors affect environmental conflict, teach a course on data science for global development, and independently manage several federally funded projects. 
+
+
+
+I would be honored to serve PERIL’s mission of reducing extremist violence. I am deeply alarmed by the rise of political extremism in the United States and around the world, and I am eager to employ my comparative background conducting field-based projects in polarized, conflict-affected countries including Serbia, Ethiopia, Uganda, Ghana, and Cambodia. 
+
 
 ## Management
-Currently, I serve as co-PI on projects funded by the US Agency for International Development, Open Society Foundations, and the Department of Defense, teach a course on data science for global development, and . 
 
+On the [Machine Learning for Peace](https://web.sas.upenn.edu/mlp-devlab/civic-space-data-and-forecasts/) project, I manage a team of three full-time data scientists, five pre-doctoral fellows, multiple PhD students and affiliated faculty, and ten undergraduates.
+
+
+I have produced reports and given invited talks for academic and policy audiences ranging from the Leibniz Center for Informatics to the UN Data Strategy Community and the U.S. Army Special Forces at Fort Liberty. 
 
 
 - Managing a team of data scientists, post-doctoral researchers, I used this data to publish more than a dozen policy reports, develop six public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries to our online forecasting system over a 12 month period, with more than 800 policymakers signing up to receive our monthly reports.
@@ -54,6 +63,8 @@ Working closely with civil society organizations. Deep collaboration with civil 
 
 
 ## Substance
+At DevLab, my research has focused on helping policymakers, donors, and NGOs strengthen citizen engagement and civil society to build community resilience.
+
 While my research has focused on a range of topics related to civil society and , I have significant substantive background on issues related to building resilience to polarization, misinformation, and extremist violence
 - Ethiopia [RCT evaluation](https://jrspringman.github.io/files/ethiopia_ie.pdf)
 - Ghana [policy report](https://jrspringman.github.io/files/USAID_Ghana_MEL_Radio%20and%20Social%20Media%20Assessment_%20Report_Oct1-2023.pdf) on survey experiment of 200 radio station managers on the threat of misinformation and 
@@ -75,13 +86,9 @@ Polarization & Extremism Research & Innovation Lab (PERIL)
 
 ## Fundraising and Communication 
 
-I have years of experience communicating technical material to both technical and non-technical audiences and telling stories with data. After moving to UPenn in 2022, my research received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and private foundations. Winning extremely competitive federal grants required me to design high-impact research and communicate the design and results to both technical and non-technical audiences. This included regular presentations to non-technical policy audiences. I further developed these skills teaching [my undergraduate course](https://jrspringman.github.io/psci3200-globaldev/) introducing global development students to causal inference and data science tools and techniques.
+ Winning extremely competitive federal grants required me to design high-impact research and communicate the design and results to both technical and non-technical audiences. This included regular presentations to non-technical policy audiences. I further developed these skills teaching [my undergraduate course](https://jrspringman.github.io/psci3200-globaldev/) introducing global development students to causal inference and data science tools and techniques.
 
 
-
-My research uses machine learning techniques including forecasting and large language models and causal inference tools including field and survey experiments. 
-
-I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments.
 
 
 identifying and recruiting partners in Ethiopian civil society and academia to 
@@ -91,21 +98,22 @@ Despite the challenges of ongoing civil conflict and the onset of COVID-19
 
 
 
-In my role as Research Professor, I design and implement research to tackle complex measurement and inference challenges and generate actionable insights for policymakers. As Senior Data Scientist, I hope to use my deep experience developing novel approaches to measure attitudinal and behavioral outcomes across cultures and languages, while doing so in an industry setting where evidence can quickly be used for real-world impact.
+In my role as Research Professor, I design and implement research to tackle complex measurement and inference challenges and generate actionable insights for policymakers. As Executive Director at Peril, I hope to build-on 
 
 
 My background in measurement and metrics design equips me to conduct research to understand the behaviors of Google's end users. As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems. 
 
-I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data. 
+<!-- I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data.  -->
 
-I am proficient in R, including experience with package development and interactive data visualization, and manage teams using Python and NoSQL to organize and maintain original big data corpora. I have produced reports and given invited talks for academic and policy audiences ranging from the Leibniz Center for Informatics to the UN Data Strategy Community and the U.S. Army Special Forces at Fort Liberty. 
+<!-- This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with PERIL’s efforts to bring scientific excellence and statistical methods to the challenges of product creation.  -->
 
-This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with Google’s efforts to bring scientific excellence and statistical methods to the challenges of product creation. 
-
-While I enjoy my academic position tremendously, much of what I love most about the research process would be more valuable in an industry setting. My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions. However, as an outside researcher, my ability to push for evidence-based policy change or the adoption of new measurement approaches within relevant government agencies has been limited. At Google, I hope to develop new methodologies and insights that are rapidly converted into actions that benefit both Google and its users. 
+<!-- My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions.   -->
 
 <!-- This has included broad evidence on how aid-implementation through non-profits impacts political credit as well as narrow evidence on the effectiveness of specific interventions.  -->
 
 
+
+<!-- My research uses machine learning techniques including forecasting and large language models and causal inference tools including field and survey experiments.  -->
+<!-- I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments. -->
 
 
