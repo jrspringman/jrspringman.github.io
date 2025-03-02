@@ -1,5 +1,5 @@
 \documentclass[11pt]{article} 
-
+\usepackage{enumitem}
 \usepackage{helvet}
 \usepackage[hidelinks]{hyperref}
 \usepackage{csquotes}
@@ -45,25 +45,38 @@ Updated \today \\
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 
-I am a Research Professor looking to apply my experience with causal inference and statistical techniques in an industry setting. Since moving to UPenn in 2022, my research received \$3.5 million in funding. During this time, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research and designed, implemented, and analyzed ten online experiments. Managing a team of data scientists, post-doctoral researchers, I published more than a dozen policy reports, developed six public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries to our online forecasting system over a 12 month period, with more than 800 policymakers signing up to receive our monthly reports.
-\smallskip
+I am a Research Professor eager to apply experimental and observational causal inference to drive financial inclusion with Tala. I have 10 years of experience leading applied research in emerging markets, including large-scale RCTs to improve financial capacity among non-profits in Cambodia and promote behavior change among students in Ethiopia with social networks. I have designed, implemented, and analyzed online experiments to understand individual and organization decision-making and worked with observational causal inference techniques including spatial difference-in-differences and generalized synthetic control. I also manage teams applying cutting-edge machine learning approaches to time-series forecasting and multilingual text classification.
 
-\textbf{\large Academic Appointments}\\
+\textbf{\large Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
 Research Assistant Professor & July 2024 -- Present\\
-Senior Research Associate \& Director of Civic Research & July 2022 -- June 2024\\
-\\
+Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
+\end{tabular*}
 
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Led construction of a large, highly multilingual media corpus 
+\item Fine-tuned transformer models for multilingual text classification 
+\item Deployed public-facing early warning system to forecast emerging market political instability
+\item Provided policymakers with data dashboards generating 150 hours of monthly usage
+\item Attracted 1,200 unique users across 73 countries over 10 months
+\item Taught course on causal inference and data science
+\end{itemize}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
 Senior Research Associate & July 2021 -- June 2022\\
 Post-Doctoral Research Associate & July 2019 -- June 2021\\
 Pre-Doctoral Research Associate & January 2019 -- July 2019\\
 \end{tabular*}
 
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Designed and analyzed RCT using matched-quadruplet randomization
+\item Collected and analyzed detailed data on organization networks and finances
+\item Fine-tuned transformer models for multilingual text classification
+\end{itemize}
 
-\bigskip
 \textbf{\large Education}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
@@ -75,8 +88,6 @@ M.A. in Political Science & 2015\\
 B.A. in Politics \& Philosophy (Honors College) & 2012
 \end{tabular*}
 
-
-\bigskip
 \textbf{\large Refereed Academic Publications}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl The Political Economy of NGO Service Provision: Evidence from an Ancillary Field Experiment}\\
@@ -90,7 +101,6 @@ First author (with Edmund Malesky, Lucy Right, and Erik Wibbels)
 Political Science Research \& Methods, 2023 (DOI: psrm.2023.14)\\
 Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 
-\bigskip
 \textbf{\large Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
@@ -149,15 +159,8 @@ January 2022 (DEC ID: PA-00Z-6HN)
 {\sl Charting a Course for Applied Research in Peacebuilding}\\
 First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
-
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International) SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
-
-%{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
-%Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
-
-%{\sl ResiliencyCambodia Impact Evaluation Design Report}\\
-%Prepared for USAID Cambodia; January 2020 (DEC ID: PA-00W-CZ5)
+With Mohamed Arafa and David Siegel (convened by Hazar Yueksel for Amnesty International) SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
 
 \textbf{\large External Awards \& Grants}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -167,7 +170,7 @@ With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty I
 
 \textbf{Open Society Foundations}\\
 \hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
-\bigskip
+\smallskip
 
 \textbf{USAID Democracy, Human Rights, and Governance Bureau}
 \begin{itemize} \itemsep -5pt
@@ -203,23 +206,7 @@ Local Organizations—Movement Towards Self-Reliance: \$225,000*
 
 \textbf{American Political Science Association Centennial Grant}\\
 2017 - 2018 Grant Recipient: \$1,100
-\bigskip
-
-% \textbf{\large Ongoing Funded Research Projects}\\
-% \rule[3mm]{\textwidth}{.2pt}
-% \textbf{Machine Learning for Peace}: Co-PI and Director of Civic Research\\
-% The Machine Learning for Peace (MLP) produces digital tools that equip donors, policymakers, and civil society with actionable data to track major political events and forecasts about when major crises are likely to inform strategic planning. 
-% 
-% \textbf{Central American Regional Media Project (ReMedios)}: Principal Investigator\\
-% Drawing on the MLP infrastructure, this project uses webscraping and large language models to evaluate a USAID intervention to build the capacity of independent media reporting on corruption across five countries in Central America. 
-% 
-% \textbf{Distinguishing Legitimate and Fabricated Anti-corruption Campaigns}: Principal Investigator\\
-% Drawing on the MLP infrastructure, this project uses large language models to detect reporting on corruption-related legal measures, identify anti-corruption campaigns, and measure the extent to which legal measures indicate genuine or politically-motivated campaigns.  
-
-%\textbf{Zimbabwe Governance Indicators Analysis}: Lead Investigator\\
-%Under the Zimbabwe Governance Indicators Analysis activity, DevLab is developing a rigorous methodology that will be used by US government agencies to evaluate the Government of Zimbabwe’s progress towards its democratic reform commitments.
-
-\bigskip
+j
 \textbf{\large Teaching \& Advising}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
@@ -227,18 +214,13 @@ Local Organizations—Movement Towards Self-Reliance: \$225,000*
 \textbf{University of Pennsylvania}: Instructor\\
 
 Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024, 2025\\
-Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
-\\
-
-Fels Institute of Government Lab Capstone Partner & Spring 2024\\
-
+Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}
+Fels Institute of Government Lab Capstone Partner & Spring 2024
 \end{tabular*}
 
 \textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead\\
 LEES promotes localization of USAID activities by building the capacity of local partners and strengthening networks that connect these organizations.
 
-
-\bigskip
 \textbf{\large Recent Invited Talks \& Events}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
@@ -292,15 +274,12 @@ International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
 \end{tabular*}
 
 
-\bigskip
 \textbf{\large Invited Public Engagement}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
 Amnesty International Advisory Panel for the Governance of Human Rights Organizations & 2024\\
-
 Foris International Ethical AI Manifesto Contributor & 2024\\
-
 3ie Civil Society Evidence Gap Maps Advisory Group Member & 2023\\
 
 \end{tabular*}
