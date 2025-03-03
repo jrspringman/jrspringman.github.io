@@ -1,0 +1,61 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+As an applied researcher passionate about using rigorous analytics to inform high-stakes decisions, I am eager to help Applecart's clients reach and influence decision makers as Director of Analytics & Survey Science. I have valuable expertise working with policymakers to identify high-impact research questions, designing research to provide rigorous answers, securing funding, communicating the findings to decision-makers, and thinking through the implications for policy and strategy.
+
+I have six years of experience managing a team of data scientists using predictive modeling to inform programming decisions by U.S. government agencies. I am passionate about communicating evidence, and have given invited talks to hundreds of policymakers across more than a dozen agencies in five countries. I also have 10 years of experience with survey research and statistical computing tools -- including R, Python, git, markdown, and shiny -- and strong knowledge of research design, network analysis, and machine learning. This includes a deep familiarity with randomized experiments (including conjoints and RCTs), observational causal inference (including difference-in-differences and synthetic control), and machine learning (including LLMs and forecasting).
+
+As a post-doctoral research associate, I co-founded a high-profile project leveraging recent advances in big data and machine learning to forecast political instability in emerging markets for a public-facing early warning system. Managing a team of data scientists and PhD students, I led the construction a research infrastructure to continually update a large, highly multilingual media corpus and use fine-tuned transformer models to extract information from text. My lab used this data to publish more than a dozen commissioned policy reports, develop six public-facing data dashboards averaging 150 hours of monthly active usage time by decision makers, and attracted 1,200 unique users from 73 countries over a 10 month period, with more than 800 policymakers signing up to receive our monthly reports.
+
+The success of this project led to my promotion to Research Assistant Professor at UPenn, where I manage three full-time data scientists, five pre-doctoral fellows, multiple affiliated faculty and PhD students, and a large pool of undergraduates. Since moving to UPenn in 2022, my research has received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and private foundations. 
+
+I have conducted applied research that directly informed policy decisions. Working with the US Mission to Cambodia, I designed an RCT evaluation of a major program to improve the financial capacity of small firms and non-profits working as U.S. government partners. The evaluation provided rigorous evidence that the program was failing to accomplish it's goals and resulted in program's cancellation and a more effective use of US government funds. In another project, I worked with the Agency for International Development to design a conjoint survey experiment answering important questions about the strategic behavior of non-profits receiving U.S. support to work in highly repressive countries. The findings informed the agency's approach to soliciting grant proposals from local partners.
+
+My academic position has given me years of experience working closely with government officials and other decision makers to generate and communicate tailored evidence to inform high-stakes decisions. However, I'm excited to deploy these skills in the technology sector, where analytics can inform decisions at an even faster pace. 
+
+
+
+<!-- During this period, I have worked closely with civil society organizations on both digital and field-based projects. This included identifying and recruiting partners in Ethiopian civil society to co-design and rigorously evaluate an intervention to increase civic engagement and social cohesion in highly polarized settings. This resulted in a highly effective [intervention](https://jrspringman.github.io/files/ethiopia_ie.pdf) that we are seeking to scale across the country. In Cambodia, I led the first RCT evaluation of an NGO capacity-building intervention, working with more than 100 CSOs over a three year period. -->
+
+
+
+<!-- As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems.  -->
+
+<!-- I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data.  -->
+
+<!-- This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with PERIL’s efforts to bring scientific excellence and statistical methods to the challenges of product creation.  -->
+
+<!-- My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions.   -->
+
+<!-- This has included broad evidence on how aid-implementation through non-profits impacts political credit as well as narrow evidence on the effectiveness of specific interventions.  -->
+
+

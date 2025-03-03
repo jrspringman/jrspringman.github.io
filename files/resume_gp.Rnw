@@ -45,7 +45,7 @@ Updated \today \\
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 
-I am a Research Professor eager to apply my expertise in survey research, project management, and communication to help Applecart's clients reach and influence decision makers. I have six years of experience managing a team of data scientists using predictive modeling and causal inference tools, including RCTs and conjoint survey experiments, to inform programming decisions by policymakers at the U.S. Department of Defense and Agency for International Development, 10 years of experience with survey research and statistical computing (R, Python, git, markdown, shiny), and strong knowledge of research design, network analysis, and machine learning.
+I am a Research Professor eager to apply my expertise in research design, data analysis, and scientific communication to help Grow Progress clients make breakthroughs in persuasion. I have 10 years of experience with statistical computing (R, Python, git, markdown, shiny), strong knowledge of causal inference and machine learning, six years of experience managing relationships with donors and communicating research findings to non-technical policy audiences, and deep familiarity with online survey platforms, including designing, programming, and analyzing complex survey experiments in Qualtrics.
 
 \textbf{\large Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -56,9 +56,9 @@ Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 \end{tabular*}
 
 \begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Secured funding for policy research
 \item Designed and analyzed commissioned RCTs and survey experiments
-\item Secured funding for commissioned research and presented findings to donors and policymakers
-\item Managed data science team using predictive modeling and causal inference tools
+\item Presented findings to donors and policymakers
 \item Deployed public-facing early warning system to forecast political instability
 \item Provided policymakers with data dashboards generating 150 hours of monthly usage
 \item Attracted 1,200 unique users across 73 countries over 10 months
@@ -75,7 +75,7 @@ Pre-Doctoral Research Associate & January 2019 -- July 2019\\
 \begin{itemize}[itemsep=0mm, parsep=0pt]
 \item Led construction of a large, highly multilingual media corpus 
 \item Fine-tuned transformer models for multilingual text classification 
-\item Designed and analyzed commissioned RCTs and survey experiments
+\item Fine-tuned transformer models for multilingual text classification
 \end{itemize}
 
 \textbf{\large Education}\\
@@ -215,7 +215,7 @@ j
 \textbf{University of Pennsylvania}: Instructor\\
 
 Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024, 2025\\
-Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
+Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}
 Fels Institute of Government Lab Capstone Partner & Spring 2024
 \end{tabular*}
 
