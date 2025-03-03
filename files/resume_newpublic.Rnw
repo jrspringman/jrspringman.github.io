@@ -23,9 +23,8 @@
 \usepackage{datetime}
 \renewcommand{\today}{\monthname[\the\month] \the\year}
 
-\usepackage{Sweave}
 \begin{document}
-\input{resume-concordance}
+\SweaveOpts{concordance=TRUE}
 
 
 \begin{multicols}{2}

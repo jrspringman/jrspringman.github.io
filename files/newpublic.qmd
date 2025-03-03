@@ -1,0 +1,60 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+As an applied researcher with deep experience designing, testing, and deploying evidence-based solutions to complex social problems, I am an ideal candidate to serve as Staff Researcher at New_Public. I have expertise managing highly-collaborative applied research projects, including complex online experiments, large-scale RCT-evaluations, and long-term data collection projects using webscraping and cutting-edge machine learning and AI. This includes six years of experience managing a team of data scientists and engineers and ten years of experience with research and statistical computing.
+
+While I do not have direct experience with user experience research, I am well equipped to help New_Public leverage the fracturing social media environment to improve the health of U.S. democracy. I have worked closely with civil society organizations and policymakers to co-design research and translate research into digital tools and programs to promote democracy, citizen engagement, and social cohesion. This required establishing long-term collaborations with civil society and media partners and using behavioral science research on civic engagement and social cohesion to drive behavior change. 
+
+As a post-doctoral researcher, I co-founded a high-profile project leveraging recent advances in big data and machine learning to forecast political instability for a public-facing early warning system. Managing a team of data scientists, engineers, and PhD students, I led the construction of a research infrastructure to continually update a large, highly multilingual media corpus and use fine-tuned transformer models to extract information from text. My lab used this data to publish more than a dozen commissioned policy reports, develop public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries over a 10 month period, with more than 800 policymakers civil society groups signing up to receive our monthly reports.
+
+The success of this project led to my promotion to the political science faculty at University of Pennsylvania as a Research Assistant Professor, where I manage three full-time data scientists, six pre-doctoral fellows, multiple affiliated faculty and PhD students, and a large pool of undergraduates. Since moving to UPenn in 2022, my research has received nearly $3.5 million in funding from private foundations and federal agencies. 
+
+I also have 10 years of experience with survey research and statistical computing tools and strong knowledge of research design, network analysis, and machine learning. This includes a deep familiarity with randomized experiments (including complex online experiments and RCTs), observational causal inference (including difference-in-differences and synthetic control), and machine learning (including LLMs and forecasting).
+
+I have conducted applied research that directly informed policy decisions. Working with the US Mission to Cambodia, I designed an RCT evaluation of a major program to improve the financial capacity of non-profits working as U.S. government partners. The evaluation provided rigorous evidence that the program was failing to accomplish it's goals and resulted in program's cancellation. In another project, I worked with the Agency for International Development to design a conjoint survey experiment answering important questions about the strategic behavior of non-profits receiving U.S. support to work in highly repressive countries. The findings informed the agency's approach to soliciting grant proposals from local partners. In Ethiopia, I identified and recruited partners in Ethiopian civil society to co-design and rigorously evaluate an intervention to increase civic engagement and social cohesion in highly polarized settings. This resulted in a highly effective intervention that our partners are working to scale across the country. 
+
+As an academic, my research has focused on helping to build democracy and civil society in developing countries. Given the threats facing U.S. democracy, I am eager to work with an organization encouraging pluralism and democratic engagement at home. New_Public provides an incredible opportunity to contribute by helping local communities across America create more flourishing digital spaces. The ongoing fracturing of social media provides a tremendous opportunity to reimagine online communities and engineer networks that can build rather than erode societal trust. At New_Public, I hope to drive research that can understand social media fracturing and design products that build community. 
+
+
+<!-- During this period, I have worked closely with civil society organizations on both digital and field-based projects. This included identifying and recruiting partners in Ethiopian civil society to co-design and rigorously evaluate an intervention to increase civic engagement and social cohesion in highly polarized settings. This resulted in a highly effective [intervention](https://jrspringman.github.io/files/ethiopia_ie.pdf) that we are seeking to scale across the country. In Cambodia, I led the first RCT evaluation of an NGO capacity-building intervention, working with more than 100 CSOs over a three year period. -->
+
+<!-- As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems.  -->
+
+<!-- I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data.  -->
+
+<!-- This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with PERIL’s efforts to bring scientific excellence and statistical methods to the challenges of product creation.  -->
+
+<!-- My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions.   -->
+
+<!-- This has included broad evidence on how aid-implementation through non-profits impacts political credit as well as narrow evidence on the effectiveness of specific interventions.  -->
+
+
