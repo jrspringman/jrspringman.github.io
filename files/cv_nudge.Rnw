@@ -44,15 +44,14 @@ Updated \today \\
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 
-I am an applied researcher working on innovative approaches to strengthen civil society in polarized and conflict-affected countries. Since 2022, my has research received nearly \$3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and Open Society Foundations. I have deep experience leading large-scale RCT-evaluations and long-term data collection projects using webscraping and cutting-edge AI, establishing long-term collaborations with civil society organizations, communicating technical material to policy audiences, and researching polarization and extremism across diverse and challenging contexts.
-\smallskip
+I am an applied researcher working to design, implement, and evaluate behavioral science solutions to complex social problems. I have deep experience leading large-scale RCT-evaluations and managing interdisciplinary research teams, establishing long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and evaluating behavioral interventions across diverse subject-matters and contexts. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with survey and experimental research, network analysis, and machine learning. Since 2022, I have won nearly \$3.5 million as PI or co-PI on both federal and private research grants.
 
 \textbf{\large Academic Appointments}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
 Research Assistant Professor & July 2024 -- Present\\
-Senior Research Associate \& Director of Civic Research & July 2022 -- June 2024\\
+Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 \\
 
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
@@ -62,7 +61,6 @@ Pre-Doctoral Research Associate & January 2019 -- July 2019\\
 \end{tabular*}
 
 
-\bigskip
 \textbf{\large Education}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
@@ -75,7 +73,6 @@ B.A. in Politics \& Philosophy (Honors College) & 2012
 \end{tabular*}
 
 
-\bigskip
 \textbf{\large Refereed Academic Publications}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl The Political Economy of NGO Service Provision: Evidence from an Ancillary Field Experiment}\\
@@ -89,14 +86,11 @@ First author (with Edmund Malesky, Lucy Right, and Erik Wibbels)
 Political Science Research \& Methods, 2023 (DOI: psrm.2023.14)\\
 Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 
-\bigskip
 \textbf{\large Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
 with Lucille Right and Erik Wibbels\\
 Revise \& Resubmit, \textit{International Organization}
-
-{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
 
 {\sl Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
 with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
@@ -106,6 +100,11 @@ with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
 
 {\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
 with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
+
+{\sl Two dilemmas in the politics of ethnic federalism: Experimental evidence from Ethiopia}\\
+with Braeden Davis, David Dow, and Juan Tellez
+
+{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
 
 \textbf{\large Selected Policy Reports}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -148,7 +147,6 @@ January 2022 (DEC ID: PA-00Z-6HN)
 {\sl Charting a Course for Applied Research in Peacebuilding}\\
 First author (with Heather Huntington and Erik Wibbels)\\
 Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
-
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
 With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International) SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
 
@@ -158,7 +156,7 @@ With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty I
 %{\sl ResiliencyCambodia Impact Evaluation Design Report}\\
 %Prepared for USAID Cambodia; January 2020 (DEC ID: PA-00W-CZ5)
 
-\textbf{\large External Awards \& Grants}\\
+\textbf{\large Selected External Awards \& Grants}\\
 \rule[3mm]{\textwidth}{.2pt}
 
 \textbf{United States Department of Defense Minerva Research Initiative}\\
@@ -166,7 +164,6 @@ With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty I
 
 \textbf{Open Society Foundations}\\
 \hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
-\bigskip
 
 \textbf{USAID Democracy, Human Rights, and Governance Bureau}
 \begin{itemize} \itemsep -5pt
@@ -200,10 +197,6 @@ Local Organizations—Movement Towards Self-Reliance: \$225,000*
 \textbf{Anonymous private philanthropic foundation}\\
 2018 Research Grant: \$38,600
 
-\textbf{American Political Science Association Centennial Grant}\\
-2017 - 2018 Grant Recipient: \$1,100
-\bigskip
-
 % \textbf{\large Ongoing Funded Research Projects}\\
 % \rule[3mm]{\textwidth}{.2pt}
 % \textbf{Machine Learning for Peace}: Co-PI and Director of Civic Research\\
@@ -218,26 +211,19 @@ Local Organizations—Movement Towards Self-Reliance: \$225,000*
 %\textbf{Zimbabwe Governance Indicators Analysis}: Lead Investigator\\
 %Under the Zimbabwe Governance Indicators Analysis activity, DevLab is developing a rigorous methodology that will be used by US government agencies to evaluate the Government of Zimbabwe’s progress towards its democratic reform commitments.
 
-\bigskip
 \textbf{\large Teaching \& Advising}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
 \textbf{University of Pennsylvania}: Instructor\\
-
-Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024\\
+Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024, 2025\\
 Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
-\\
-
-Fels Institute of Government Lab Capstone Partner & Spring 2024\\
-
+Fels Institute of Government Lab Capstone Partner & Spring 2024
 \end{tabular*}
 
 \textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead\\
 LEES promotes localization of USAID activities by building the capacity of local partners and strengthening networks that connect these organizations.
 
-
-\bigskip
 \textbf{\large Recent Invited Talks \& Events}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
@@ -291,15 +277,12 @@ International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
 \end{tabular*}
 
 
-\bigskip
 \textbf{\large Invited Public Engagement}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
 Amnesty International Advisory Panel for the Governance of Human Rights Organizations & 2024\\
-
 Foris International Ethical AI Manifesto Contributor & 2024\\
-
 3ie Civil Society Evidence Gap Maps Advisory Group Member & 2023\\
 
 \end{tabular*}
