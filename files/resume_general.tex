@@ -12,6 +12,7 @@
 \setlength{\parindent}{0pt}
 \usepackage[font=small,skip=2pt]{caption}
 \usepackage{multicol}
+\setlength{\multicolsep}{6.0pt plus 2.0pt minus 1.5pt}% 50% of original values
 \usepackage{hyperref}
 \usepackage{fontspec}
 \usepackage{fontawesome}
@@ -23,8 +24,9 @@
 \usepackage{datetime}
 \renewcommand{\today}{\monthname[\the\month] \the\year}
 
+\usepackage{Sweave}
 \begin{document}
-\SweaveOpts{concordance=TRUE}
+\input{resume_general-concordance}
 
 
 \begin{multicols}{2}
@@ -43,22 +45,36 @@ Updated \today \\
 \end{flushright}
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
+\vspace{-10pt}
 
-I am an applied researcher working to design, implement, and evaluate behavioral science solutions to complex social problems. I have deep experience leading large-scale RCT-evaluations and managing interdisciplinary research teams, establishing long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and evaluating behavioral interventions across diverse subject-matters and contexts. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with survey and experimental research, network analysis, and machine learning. Since 2022, I have won nearly \$3.5 million as PI or co-PI on both federal and private research grants.
+I am an applied researcher working to design, implement, and evaluate data-driven solutions to complex problems. I have deep experience managing highly interdisciplinary research teams, establishing long-term collaborations with public and private sector partners, and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with causal inference and machine learning research tools. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants.
 
-\textbf{\large Academic Appointments}\\
+\textbf{\large Work Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
 Research Assistant Professor & July 2024 -- Present\\
 Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
-\\
+\end{tabular*}
 
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Designed and analyzed commissioned RCTs and survey experiments
+\item Managed machine learning (transformer models, time-series forecasting) research team
+\item Deployed public-facing data dashboards and early warning system (150 hours of monthly usage by 800 policymakers)
+\item Developed course on causal inference and data science
+\end{itemize}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
 Senior Research Associate & July 2021 -- June 2022\\
 Post-Doctoral Research Associate & July 2019 -- June 2021\\
 Pre-Doctoral Research Associate & January 2019 -- July 2019\\
 \end{tabular*}
+
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Led construction of large, highly multilingual media corpus
+\item Developed time-series forecasting pipeline
+\end{itemize}
 
 
 \textbf{\large Education}\\
@@ -67,10 +83,18 @@ Pre-Doctoral Research Associate & January 2019 -- July 2019\\
 \textbf{\href{https://www.sas.upenn.edu/polisci/}{University of Pennsylvania}}\\
 Ph.D. in Comparative Politics \& International Relations & 2019\\
 M.A. in Political Science & 2015\\
- & \\
 \textbf{University of Pittsburgh}\\
 B.A. in Politics \& Philosophy (Honors College) & 2012
 \end{tabular*}
+
+\textbf{\large Selected External Awards \& Grants}\\
+\rule[3mm]{\textwidth}{.2pt}
+My research has been supported by the U.S. Department of Defense, Agency for International Development, and National Science Foundation and multiple private foundations. Since 2022, I have been a principal investigator on nearly \$3.5 million in awards, carrying projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities. My most recent awards include:
+
+\begin{itemize} \itemsep -5pt
+  \item \$1.6m Department of Defense \href{https://minerva.defense.gov/Research/Funded-Projects/Article/3956358/modeling-climate-induced-societal-adaptation-and-population/}{Minerva Research Initiative} grant to support interdisciplinary research with Environmental Sciences faculty to model the impact of climate change on adaptation, conflict, and migration.
+  \item \$900,000 Agency for International Development grant to develop large-scale webscraping and machine learning text classification pipeline tracking and forecasting foreign influence operations and political instability in aid-receiving countries
+\end{itemize}
 
 
 \textbf{\large Refereed Academic Publications}\\
@@ -86,11 +110,14 @@ First author (with Edmund Malesky, Lucy Right, and Erik Wibbels)
 Political Science Research \& Methods, 2023 (DOI: psrm.2023.14)\\
 Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 
-\textbf{\large Under Review}\\
+\textbf{\large Academic Manuscripts Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
 with Lucille Right and Erik Wibbels\\
 Revise \& Resubmit, \textit{International Organization}
+
+{\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
+with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
 
 {\sl Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
 with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
@@ -98,18 +125,13 @@ with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
 {\sl The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies}\\
 with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
 
-{\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
-with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
-
 {\sl Two dilemmas in the politics of ethnic federalism: Experimental evidence from Ethiopia}\\
 with Braeden Davis, David Dow, and Juan Tellez
 
 {\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
 
-\textbf{\large Selected Policy Reports}\\
+\textbf{\large Selected Policy Reports (since 2024)}\\
 \rule[3mm]{\textwidth}{.2pt}
-
-
 {\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and Large Language Model Classification}\\
 Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
 November 2024
@@ -122,98 +144,56 @@ November 2024
 Prepared for USAID Zimbabwe\\
 March 2024
 
-{\sl Resurgent Authoritarian Influence: Evidence from Machine-Generated, Cross-National Data}\\
-Prepared for USAID Analytic Task on Authoritarian Resurgence and Influence\\
-August 2023
+% {\sl Resurgent Authoritarian Influence: Evidence from Machine-Generated, Cross-National Data}\\
+% Prepared for USAID Analytic Task on Authoritarian Resurgence and Influence\\
+% August 2023
+% 
+% {\sl Radio and Social Media in Ghana Assessment Report}\\
+% Prepared for USAID Ghana\\
+% July 2023 (DEC ID: coming soon)
+% 
+% {\sl The Effect of Social Ties on Engagement \& Cohesion: Evidence from Ethiopian University Students}\\
+% Prepared for USAID Innovation, Technology, \& Research Hub\\
+% April 2023 (DEC ID: PA-021155)
+% 
+% {\sl ResiliencyCambodia Impact Evaluation Findings Report}\\
+% Prepared for USAID Cambodia\\
+% August 2022 (DEC ID: PA-00Z-KBD)
 
-{\sl Radio and Social Media in Ghana Assessment Report}\\
-Prepared for USAID Ghana\\
-July 2023 (DEC ID: coming soon)
-
-{\sl The Effect of Social Ties on Engagement \& Cohesion: Evidence from Ethiopian University Students}\\
-Prepared for USAID Innovation, Technology, \& Research Hub\\
-April 2023 (DEC ID: PA-021155)
-
-{\sl ResiliencyCambodia Impact Evaluation Findings Report}\\
-Prepared for USAID Cambodia\\
-August 2022 (DEC ID: PA-00Z-KBD)
-
-{\sl  Retrospective of USAID’s Response to Pandemic-Enabled Democratic Backsliding}\\
-Prepared for USAID Democracy, Human Rights, and Governance Center\\
-January 2022 (DEC ID: PA-00Z-6HN)
+% {\sl  Retrospective of USAID’s Response to Pandemic-Enabled Democratic Backsliding}\\
+% Prepared for USAID Democracy, Human Rights, and Governance Center\\
+% January 2022 (DEC ID: PA-00Z-6HN)
 
 \textbf{\large Policy Writing}\\
 \rule[3mm]{\textwidth}{.2pt}
 {\sl Charting a Course for Applied Research in Peacebuilding}\\
 First author (with Heather Huntington and Erik Wibbels)\\
-Forthcoming in ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (United States Institute of Peace)\\
+Published by United States Institute of Peace (2024)
+% In ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (forthcoming)\\
+
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel (convened by Dr. Hazar Yueksel for Amnesty International) SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
+With Mohamed Arafa and David Siegel; SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
+Convened for Amnesty International by Dr. Hazar Yueksel  (2024)
 
-%{\sl ResiliencyCambodia Impact Evaluation Baseline Report}\\
-%Prepared for USAID Cambodia; Learning, Evaluation, and Research Activity II; September 2020 (DEC ID: PA-00X-47C)
+{\sl Ethical AI Manifesto (interview)}\\
+Published by Foris International (2024)
 
-%{\sl ResiliencyCambodia Impact Evaluation Design Report}\\
-%Prepared for USAID Cambodia; January 2020 (DEC ID: PA-00W-CZ5)
-
-\textbf{\large Selected External Awards \& Grants}\\
-\rule[3mm]{\textwidth}{.2pt}
-
-\textbf{United States Department of Defense Minerva Research Initiative}\\
-\hspace{1em} Modeling Climate-Induced Societal Adaptation and Population Displacement with New Machine-Coded Environmental Event Data: \$1,600,000$^{\ with\ Erik\ Wibbels\ and\ Iriana\ Marinov}$
-
-\textbf{Open Society Foundations}\\
-\hspace{1em} Special Projects \& Crisis Response: \$250,000*$^{\ with\ Erik\ Wibbels}$
-
-\textbf{USAID Democracy, Human Rights, and Governance Bureau}
-\begin{itemize} \itemsep -5pt
-\item Tracking Authoritarian Resurgence and Democratic Institutions and Spaces: \$890,000*
-\item Distinguishing Legitimate, Superficial, and Fabricated Anti-corruption Campaigns: \$46,690
-\item Central American Regional Media Project Impact Evaluation: \$75,554 (Phase 1-2)
-\item Zimbabwe Governance Indicators Analysis: \$37,894
-\item Swift Expertise and Grounded Analytics: \$500,000*
-\item Analytic Task on Authoritarian Resurgence and Influence: \$99,737*
-\item INSPIRES Flexible Response Funds: \$83,000*
-\end{itemize}
-
-\textbf{United States Agency for International Development (USAID) Bureau for Policy, Planning, and Learning}\\
-\hspace{1em} Local Evaluation and Evidence Support (LEES): \$98,060
-
-\textbf{University of Antwerp}\\
-\hspace{1em} Foreign Information Manipulation and Interference: \$12,500*
-
-\textbf{USAID Ghana Monitoring Evaluation and Learning (MEL) Platform}\\
-Radio Station Managers Survey: \$30,000*
-
-\textbf{USAID Innovation, Technology, and Research Hub}\\
-LASER PULSE (with Mesele Mengsteab, Juan Tellez, and David Dow): \$250,000
-
-\textbf{USAID Mission to Cambodia}\\
-Local Organizations—Movement Towards Self-Reliance: \$225,000*
-
-\textbf{National Science Foundation}\\
-2018 - 2019 Doctoral Dissertation Research Improvement Grant (SES-1747642): \$14,996
-
-\textbf{Anonymous private philanthropic foundation}\\
-2018 Research Grant: \$38,600
 
 \textbf{\large Teaching \& Advising}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
-\textbf{University of Pennsylvania}: Instructor\\
-Global Development: Intermediate Topics in Politics, Policy, and Data  & Spring 2024, 2025\\
-Course website: \href{https://jrspringman.github.io/psci3200-globaldev/}{jrspringman.github.io/psci3200-globaldev/}\\
+\textbf{University of Pennsylvania}: Professor\\
+\href{https://jrspringman.github.io/psci3200-globaldev/}{Global Development: Intermediate Topics in Politics, Policy, and Data} & Spring 2024, 2025\\
 Fels Institute of Government Lab Capstone Partner & Spring 2024
 \end{tabular*}
 
-\textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead\\
-LEES promotes localization of USAID activities by building the capacity of local partners and strengthening networks that connect these organizations.
+\textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead (ongoing)\\
+Data science and causal inference training for USAID local partners in Zambia and Ghana
 
 \textbf{\large Recent Invited Talks \& Events}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
-
 U.S. Department of State (Washington, D.C.) & Nov, 2024\\
 
 Perry World House Forum (Washington, D.C.) & Oct, 2024\\
@@ -240,8 +220,8 @@ United States Army 95th Civil Affairs Brigade (Fort Liberty, NC) & Jun, 2023\\
 
 Social Impact Evidence for Impact Webinar Series (Remote) & May, 2023\\
 
-\end{tabular*}
-\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+% \end{tabular*}
+% \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
 Duke University US Army Governance Training (Durham, NC) & Feb, 2023\\
 
@@ -257,40 +237,23 @@ Big Data for Development \& Governance Conference (Philadelphia, PA) & Oct, 2022
 
 International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
 
-%United States Agency for International Development Moldova & Oct, 2022\\
-%\hspace{1em} Remote & \\
-
 \end{tabular*}
 
-
-\textbf{\large Invited Public Engagement}\\
+\textbf{\large References}\\
 \rule[3mm]{\textwidth}{.2pt}
-\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\begin{multicols}{2}
+\vspace{-20pt}
+Erik Wibbels\\
+Presidential Penn Compact Professor\\
+University of Pennsylvania\\
+ewibbels@sas.upenn.edu
 
-Amnesty International Advisory Panel for the Governance of Human Rights Organizations & 2024\\
-Foris International Ethical AI Manifesto Contributor & 2024\\
-3ie Civil Society Evidence Gap Maps Advisory Group Member & 2023\\
+Guy Grossman\\
+Knott Professor of Global Politics\\
+University of Pennsylvania\\
+ggros@sas.upenn.edu
 
-\end{tabular*}
 
-
-% \bigskip
-% \textbf{\large References}\\
-% \rule[3mm]{\textwidth}{.2pt}
-% \begin{multicols}{2}
-% Erik Wibbels\\
-% Presidential Penn Compact Professor\\
-% Founder, DevLab@Penn\\
-% University of Pennsylvania\\
-% ewibbels@sas.upenn.edu
-% 
-% Guy Grossman\\
-% Associate Professor of Political Science\\
-% Director, Penn Development Research Initiative\\
-% University of Pennsylvania\\
-% ggros@sas.upenn.edu
-% 
-% 
-% \end{multicols}
+\end{multicols}
 
 \end{document}
