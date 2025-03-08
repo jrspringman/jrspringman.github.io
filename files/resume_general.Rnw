@@ -32,7 +32,7 @@
 {\Large {\bf Jeremy Springman}}\\
 Research Assistant Professor\\
 University of Pennsylvania\\
-Updated \today \\
+%Updated \today \\
 
 \columnbreak
 \begin{flushright}
@@ -40,13 +40,15 @@ Updated \today \\
 \faEnvelope: \href{mailto:jspr@sas.upenn.edu}{jspr@sas.upenn.edu}\\
 \faLaptop: \url{jrspringman.github.io}\\
 \faGithub: \url{https://github.com/jrspringman}\\
-\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
+%\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
 \end{flushright}
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 \vspace{-10pt}
 
 I am an applied researcher working to design, implement, and evaluate data-driven solutions to complex problems. I have deep experience managing highly interdisciplinary research teams, establishing long-term collaborations with public and private sector partners, and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with causal inference and machine learning research tools. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants.
+
+% inform decision-making 
 
 \textbf{\large Work Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -57,23 +59,17 @@ Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 \end{tabular*}
 
 \begin{itemize}[itemsep=0mm, parsep=0pt]
-\item Managed ML research team using LLMs, transformer models, time-series forecasting
-\item Deployed public-facing data dashboards and early warning system (150 hours of monthly usage by 800 policymakers)
-\item Designed and analyzed commissioned RCTs and survey experiments
-\item Developed course on applied causal inference and data science
+\item Led development of large-scale webscraping and ML text classification pipeline to track and forecast political events and instability around the world
+\item Deployed public-facing data dashboards and early warning system to inform crisis response and policy planning (150 hours of monthly usage; 800 newsletter sign-ups)
+\item Designed and analyzed randomized experiments to measure program success
+\item Developed course on causal inference and data science; advised students
 \end{itemize}
 
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
 Senior Research Associate & July 2021 -- June 2022\\
-Post-Doctoral Research Associate & July 2019 -- June 2021\\
-Pre-Doctoral Research Associate & January 2019 -- July 2019\\
+Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \end{tabular*}
-
-\begin{itemize}[itemsep=0mm, parsep=0pt]
-\item Led development of large-scale webscraping and highly multilingual ML text classification pipeline tracking and forecasting foreign influence operations and political instability
-\end{itemize}
-
 
 \textbf{\large Education}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -94,6 +90,16 @@ My research has been supported by the U.S. Department of Defense, Agency for Int
   \item \$900,000 Agency for International Development grant to develop large-scale webscraping and machine learning text classification pipeline tracking and forecasting foreign influence operations and political instability in aid-receiving countries
 \end{itemize}
 
+\textbf{\large Invited Public Speaking}\\
+\rule[3mm]{\textwidth}{.2pt}
+I am passionate about communicating research findings for non-technical audiences to inform decision-making. My recent public speaking invitations include:
+
+\begin{itemize} \itemsep -5pt
+  \item U.S. Department of State (Washington, D.C.): I presented results from a commissioned trial applying novel data produced by my research team to forecast political instability. The focus was on how forecasts should inform DoS budget and operations planning.
+  \item Perry World House (Philadelphia): I discussed how my research can shape decision-makers' understanding of Russia's foreign policy and influence operations in developing countries.
+  \item Leibniz Center for Informatics (Germany): I discussed the use of ML/AI to extract information from highly-multilingual text for a continuous, large-scale data production operation.
+  \item U.S. Army (Fort Liberty), UN Data Strategy Community (remote), Vienna University of Economics and Business (Austria): I introduced public-facing data products developed by my team to track political events and forecast instability in emerging markets. Discussion focused on the use of event tracking and forecast data dashboards for decision-making.
+\end{itemize}
 
 \textbf{\large Refereed Academic Publications}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -110,148 +116,58 @@ Second author (with Laura Paler, Guy Grossman, and Jan Pierskalla)
 
 \textbf{\large Academic Manuscripts Under Review}\\
 \rule[3mm]{\textwidth}{.2pt}
-{\sl Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation}\\
-with Lucille Right and Erik Wibbels\\
-Revise \& Resubmit, \textit{International Organization}
+I have six academic manuscripts currently under review (including revise \& resubmit) at academic journals. The projects use causal inference and ML tools applied to spatial, network, financial, and text data. Specific topics include an RCT to expand youth social networks and civic engagement in Ethiopia, experimental research on organization decision-making in autocracies, and the strategic logic of Russian influence operations.
 
-{\sl Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence}\\
-with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels
 
-{\sl Fostering Civic Engagement in Polarized, Autocratic Regimes: Evidence from a Field Experiment in Ethiopia}\\
-with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez
-
-{\sl The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies}\\
-with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer
-
-{\sl Two dilemmas in the politics of ethnic federalism: Experimental evidence from Ethiopia}\\
-with Braeden Davis, David Dow, and Juan Tellez
-
-{\sl Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda}
-
-\textbf{\large Selected Policy Reports (since 2024)}\\
+\textbf{\large Selected Policy Reports in 2024 (contact for full list)}\\
 \rule[3mm]{\textwidth}{.2pt}
-{\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and Large Language Model Classification}\\
-Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
-November 2024
+{\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and LLM Classification}\\
+Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau
 
 {\sl Forecasting High-Level Travel Advisories with Machine Learning for Peace Data}\\
-Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
-November 2024
+Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau
 
-{\sl Zimbabwe Governance Indicators Analysis}\\
-Prepared for USAID Zimbabwe\\
-March 2024
-
-% {\sl Resurgent Authoritarian Influence: Evidence from Machine-Generated, Cross-National Data}\\
-% Prepared for USAID Analytic Task on Authoritarian Resurgence and Influence\\
-% August 2023
-% 
-% {\sl Radio and Social Media in Ghana Assessment Report}\\
-% Prepared for USAID Ghana\\
-% July 2023 (DEC ID: coming soon)
-% 
-% {\sl The Effect of Social Ties on Engagement \& Cohesion: Evidence from Ethiopian University Students}\\
-% Prepared for USAID Innovation, Technology, \& Research Hub\\
-% April 2023 (DEC ID: PA-021155)
-% 
-% {\sl ResiliencyCambodia Impact Evaluation Findings Report}\\
-% Prepared for USAID Cambodia\\
-% August 2022 (DEC ID: PA-00Z-KBD)
-
-% {\sl  Retrospective of USAID’s Response to Pandemic-Enabled Democratic Backsliding}\\
-% Prepared for USAID Democracy, Human Rights, and Governance Center\\
-% January 2022 (DEC ID: PA-00Z-6HN)
-
-\textbf{\large Policy Writing}\\
-\rule[3mm]{\textwidth}{.2pt}
 {\sl Charting a Course for Applied Research in Peacebuilding}\\
-First author (with Heather Huntington and Erik Wibbels)\\
-Published by United States Institute of Peace (2024)
-% In ``A Positive Peace: Towards an Evidence-Based Peacebuilding'' (forthcoming)\\
+Published by United States Institute of Peace
 
 {\sl Report of the Advisory Panel for the Governance of Human Rights Organizations}\\
-With Mohamed Arafa and David Siegel; SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235}\\
-Convened for Amnesty International by Dr. Hazar Yueksel  (2024)
+Convened for Amnesty International by Dr. Hazar Yueksel (SocArXiv DOI: \href{https://doi.org/10.31235/osf.io/7devb}{10.31235})
 
-{\sl Ethical AI Manifesto (interview)}\\
-Published by Foris International (2024)
+% {\sl Ethical AI Manifesto (interview)}\\
+% Published by Foris International
+% {\sl Zimbabwe Governance Indicators Analysis}\\
+% Prepared for USAID Zimbabwe\\
 
 
-\textbf{\large Teaching \& Advising}\\
-\rule[3mm]{\textwidth}{.2pt}
-\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 
-\textbf{University of Pennsylvania}: Professor\\
-\href{https://jrspringman.github.io/psci3200-globaldev/}{Global Development: Intermediate Topics in Politics, Policy, and Data} & Spring 2024, 2025\\
-Fels Institute of Government Lab Capstone Partner & Spring 2024
-\end{tabular*}
-
-\textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead (ongoing)\\
-Data science and causal inference training for USAID local partners in Zambia and Ghana
-
-\textbf{\large Recent Invited Talks \& Events}\\
-\rule[3mm]{\textwidth}{.2pt}
-\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
-U.S. Department of State (Washington, D.C.) & Nov, 2024\\
-
-Perry World House Forum (Washington, D.C.) & Oct, 2024\\
-
-Vienna University of Economics and Business (Vienna, Austria) & Sept, 2024\\
-
-International Civil Society Centre (Remote) & June, 2024\\
-
-Leibniz Center for Informatics \href{https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue02/24082/DagRep.14.2.182/DagRep.14.2.182.pdf}{AI for Social Good Seminar} (Wadern, Germany) & Feb, 2024\\
-
-Foris International Ethical AI Manifesto Launch Event (Remote) & Nov, 2023\\
-
-World Bank EngageFest Webinar (Remote) & Nov, 2023\\
-
-United States Department of State (Remote) & Jul, 2023\\
-
-Community of Democracies Enabling and Protecting Civil Society (Remote) & Jun, 2023\\
-
-United Nations Data Strategy Community Series (Remote) & Jun, 2023\\
-
-US Agency for International Development Tech Tuesdays Series (Remote) & Jun, 2023\\
-
-United States Army 95th Civil Affairs Brigade (Fort Liberty, NC) & Jun, 2023\\
-
-Social Impact Evidence for Impact Webinar Series (Remote) & May, 2023\\
-
-% \end{tabular*}
+% \textbf{\large Teaching \& Advising}\\
+% \rule[3mm]{\textwidth}{.2pt}
 % \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
-
-Duke University US Army Governance Training (Durham, NC) & Feb, 2023\\
-
-US Agency for International Development DRG Center (Washington, D.C.) & Feb, 2023\\
- 
-Vassar College Data Science \& Society Colloquium (Poughkeepsie, NY) & Dec, 2022\\
- 
-Paris Peace Forum (Paris, France) & Nov, 2022\\
-
-International Civic Forum (London, UK) & Nov, 2022\\
-
-Big Data for Development \& Governance Conference (Philadelphia, PA) & Oct, 2022\\
-
-International Center for Not-for-Profit Law (Remote) & Jun, 2022\\
-
-\end{tabular*}
-
-\textbf{\large References}\\
-\rule[3mm]{\textwidth}{.2pt}
-\begin{multicols}{2}
-\vspace{-20pt}
-Erik Wibbels\\
-Presidential Penn Compact Professor\\
-University of Pennsylvania\\
-ewibbels@sas.upenn.edu
-
-Guy Grossman\\
-Knott Professor of Global Politics\\
-University of Pennsylvania\\
-ggros@sas.upenn.edu
-
-
-\end{multicols}
+% 
+% \textbf{University of Pennsylvania}: Professor\\
+% \href{https://jrspringman.github.io/psci3200-globaldev/}{Global Development: Intermediate Topics in Politics, Policy, and Data} & Spring 2024, 2025\\
+% Fels Institute of Government Lab Capstone Partner & Spring 2024
+% \end{tabular*}
+% 
+% \textbf{Local Evaluation and Evidence Support (LEES)}: Academic Lead (ongoing)\\
+% Data science and causal inference training for USAID local partners in Zambia and Ghana
+% 
+% 
+% \textbf{\large References}\\
+% \rule[3mm]{\textwidth}{.2pt}
+% \begin{multicols}{2}
+% \vspace{-20pt}
+% Erik Wibbels\\
+% Presidential Penn Compact Professor\\
+% University of Pennsylvania\\
+% ewibbels@sas.upenn.edu
+% 
+% Guy Grossman\\
+% Knott Professor of Global Politics\\
+% University of Pennsylvania\\
+% ggros@sas.upenn.edu
+% 
+% 
+% \end{multicols}
 
 \end{document}
