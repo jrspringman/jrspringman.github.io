@@ -6,7 +6,7 @@
 \usepackage{subcaption}
 \usepackage[left=.7in,
             right=.7in,
-            top=.7in,
+            top=.5in,
             bottom=.5in,]{geometry}
 \addtolength{\topmargin}{0in}
 \pagenumbering{arabic}
@@ -67,12 +67,13 @@ Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 \begin{itemize}[itemsep=0mm, parsep=0pt]
 \item Awarded \$3.5 million in federal and private research grants as a principal investigator 
 \item Deployed public-facing \textbf{R Shiny} data dashboards and early warning system to inform crisis response and policy planning (150 hours of monthly usage; 800 policymakers signed-up for newsletter)
-\item Designed and analyzed randomized experiments to measure success and efficiency of client projects
-%\item Prepared 6 manuscripts for submission to academic journals
+\item Designed and analyzed complex randomized experiments to measure success of client projects
 \item Developed course and mentored students on causal inference + research tools (\textbf{R}, \textbf{Quarto}, \textbf{GitHub})
 \end{itemize}
 %ML/AI to extract information from highly-multilingual text for a continuous, large-scale data production operation
 %Manage projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities.
+% Pre-registered complex experimental designs with simulation-based power calculations
+% 
 
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
@@ -80,7 +81,9 @@ Senior Research Associate & July 2021 -- June 2022\\
 Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \end{tabular*}
 \begin{itemize}[itemsep=0mm, parsep=0pt]
-\item Led development of large-scale webscraping and highly-multilingual ML text classification pipeline (\textbf{Python} and \textbf{R}) to track and forecast political instability in 63 countries
+\item Led \textbf{Python} and \textbf{R} development of large-scale webscraping and highly-multilingual ML text classification pipeline to continuously monitor and forecast political instability in 63 countries
+\item Managed 3-arm trial with matched quadruplet randomization from design through evaluation
+\item Programmed multi-lingual online survey experiments in Qualtrics (\textbf{Javascript}, \textbf{HTML})
 \item Published 3 empirical research articles in peer-reviewed academic journals
 \end{itemize}
 
