@@ -46,9 +46,11 @@ University of Pennsylvania\\
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 \vspace{-10pt}
 
-I am an applied researcher working to design, implement, and evaluate data-driven solutions to complex problems. I have deep experience managing highly interdisciplinary research teams, establishing long-term collaborations with public and private sector partners, and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with causal inference and machine learning research tools. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants.
-
-% inform decision-making 
+Applied researcher designing, implementing, and evaluating data-driven solutions to problems:
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item 6 years experience managing interdisciplinary team of 12 researchers, collaborating with public and private sector partners, and communicating research to non-technical audiences
+\item 10 years experience with causal inference and machine learning research tools
+\end{itemize}
 
 \textbf{\large Work Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
@@ -59,7 +61,8 @@ Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 \end{tabular*}
 
 \begin{itemize}[itemsep=0mm, parsep=0pt]
-\item Led development of large-scale webscraping and ML text classification pipeline to track and forecast political events and instability around the world
+\item Awarded \$3.5 million in federal and private research grants as a principal investigator 
+\item Led development of large-scale webscraping and ML text classification pipeline to track and forecast political instability in 63 countries
 \item Deployed public-facing data dashboards and early warning system to inform crisis response and policy planning (150 hours of monthly usage; 800 newsletter sign-ups)
 \item Designed and analyzed randomized experiments to measure program success
 \item Developed course on causal inference and data science; advised students
@@ -70,6 +73,7 @@ Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
 Senior Research Associate & July 2021 -- June 2022\\
 Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \end{tabular*}
+
 
 \textbf{\large Education}\\
 \rule[3mm]{\textwidth}{.2pt}

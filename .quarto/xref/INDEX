@@ -23,5 +23,8 @@
   },
   "teaching.qmd": {
     "teaching.html": "c2dc5b55"
+  },
+  "resume_short.qmd": {
+    "resume_short.tex": "d7f68499"
   }
 }
