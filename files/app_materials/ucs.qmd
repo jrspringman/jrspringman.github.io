@@ -1,0 +1,42 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+I am a concerned scientist displaced by recent terminations to awarded grants! 
+
+As a Research Assistant Professor in a social science research lab, my researched focused on generating insights to help donors and civil society strengthen democratic institutions in developing countries. Given the threats facing U.S. democracy, I am eager to work with an organization encouraging pluralism and democratic engagement at home.
+
+I have been extremely successful at winning highly competitive research grants from both federal and private donors. However, in February, terminations cancelled more than $2.5 million in committed federal funding for my projects, including a prestigious [Minerva grant](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science) funding interdisciplinary research involving political and climate scientists to model the impact of climate change on adaptation, conflict, and migration. I am now looking for my next opportunity.
+
+At PDRI-DevLab, I have managed multiple externally funded projects, carrying them from conceptualization through design, implementation, evaluation, and the dissemination of results to the scientific and policy communities. I currently manage a team of three full-time data scientists and engineers, six predoctoral fellows, one PhD student, and a large pool of undergraduate research assistants. I have experience establishing long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and evaluating behavioral interventions across diverse subject-matters and contexts.
+
+I believe that my skills experience makes me an ideal candidate to serve as the Research Director for the Union of Concerned Scientists. I have an established track record of forging long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and generating research products designed for public consumption. I am passionate about defending science and the democratic institutions and values it relies on.
+
