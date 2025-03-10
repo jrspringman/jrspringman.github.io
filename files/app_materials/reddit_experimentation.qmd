@@ -30,99 +30,36 @@ University of Pennsylvania\\
 \url{jrspringman.github.io}
 \end{flushleft}
 
-I am an applied researcher (and longtime Redditor) passionate about bringing advanced experimentation methodologies to real-world decision-making. I have six years of experience managing an interdisciplinary team of 12 research staff
+I am an applied researcher (and longtime Redditor) passionate about bringing advanced experimentation methodologies to real-world decision-making. As a Research Assistant Professor at the University of Pennsylvania, I have spent the last decade using causal inference and machine learning to inform high-stakes decision-making by policymakers in the U.S. government. From designing and analyzing complex experimental studies to delivering rigorous, data-driven insights that inform strategic decisions, I have cultivated the skills and experience required to bring data science excellence to Reddit’s two-sided ads marketplace.
 
+Over the past six years, I have managed and mentored an interdisciplinary team of twelve researchers and data scientists. Under my leadership, this team has planned and executed many large-scale projects, ensuring that the findings are both rigorous and actionable. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants, carrying projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities. 
 
-I have 10 years of experience with causal inference and machine learning research -- including R, Python, git, markdown, and shiny. 
+<!-- My most recent awards include a $1.6m Department of Defense [Minerva Research Initiative](https://minerva.defense.gov/Research/Funded-Projects/Article/3956358/modeling-climate-induced-societal-adaptation-and-population/) grant to support interdisciplinary research with Environmental Sciences faculty to model the impact of climate change on adaptation, conflict, and migration and a \$900,000 Agency for International Development grant to maintain and expand a large-scale webscraping and machine learning text classification pipeline to monitor and forecast political instability in more than 60 countries. -->
 
-My skills, experience, and interests make me a highly qualified and enthusiastic candidate to help revolutionize Reddit's advertising platform.
+I have deep experience leading randomized experiments and causal inference projects commissioned by stakeholders to generate actionable insights. These projects have given me years of experience using advanced methods to address novel design and measurement challenges. I have designed and publicly pre-registered more than a dozen randomized experiments using bespoke simulation-based power calculations. I have also leveraged tools like non-bipartite matching, matched-group randomization, and re-randomization to extract maximum statistical precision from small and high variance samples and deployed sophisticated approaches to adjust for multiple-hypothesis testing, including Bayesian regularization. I have also designed trials to deal with the reality of social networks by collecting and using network data to estimate the size of treatment spillovers through network connections.
 
-As a Research Assistant Professor at University of Pennsylvania, I have a broad portfolio of externally funded projects encompassing both experimental and machine learning research. 
+In addition to generating academic publications and contributing to our theoretical understanding of the social world, my research has directly informed policy. As a research associate at Duke University, I led an evaluation that provided rigorous evidence that a U.S. government foreign aid program was failing to accomplish it's goals, resulting in the program's cancellation and a more effective use of government resources. 
 
+In another project, I worked with policymakers at the U.S. Agency for International Development to design a conjoint survey experiment that answered pressing questions about the strategic behavior of non-profits receiving U.S. support in highly repressive countries. Based on the findings, I produced a policy brief recommending changes to how the agency supports local partners in repressive countries and presented the recommendations to high-level officials. A third project used insights from behavioral psychology and economics to design and evaluate an intervention to increase civic engagement and social cohesion among youth in highly polarized countries. This resulted in a highly effective intervention that my partners are seeking to scale across developing countries.
 
-I have carried multiple large-scape experimental projects from conceptualization and proposal through design, implementation, analysis, and the dissemination of results to the scientific and policy communities. 
-pre-registration, simulation-based power calculations
+I also have extensive background in machine learning research. As a post-doctoral research associate, I co-founded a high-profile project to build a public-facing early warning system forecasting political instability in emerging markets. Managing a team of data scientists and PhD students, I led the construction of a research infrastructure to continually update a large, highly multilingual corpus of high-quality media and use deep learning translation models and fine-tuned transformers and LLMs to extract information from text. This project's funding was renewed over six years and attracted support from the U.S. Department of Defense, Agency for International Development, and private donors.
 
+My lab used data from this project publish more than a dozen commissioned policy reports, develop public-facing data dashboards averaging 150 hours of monthly active usage time by decision-makers, and attracted 1,200 unique users from 70 countries over a 10 month period, with more than 800 policymakers signing up to receive our monthly reports. The success of this project led to my promotion to Research Assistant Professor, where I manage three full-time data scientists, five pre-doctoral fellows, multiple affiliated faculty and PhD students, and a large pool of undergraduates. 
 
-I have been extremely successful at winning highly competitive research grants to fund experimental and computation research to inform high-stakes decisions on foreign aid programming and national security. 
+My experience working closely with policymakers and stakeholders prepares me to collaborate with Reddit's product managers and engineers to identify challenges, design solutions, and measure their impact on key outcomes. I am passionate about translating scientific research into action, and have given invited talks to hundreds of policymakers across more than a dozen agencies in five countries. I specialize in communicating technical material to non-technical audiences: from policy officials at the U.S. Department of State to civil society stakeholders across emerging markets, I have built a track record of translating complex analyses into clear, strategic recommendations. Furthermore, my international experience makes me well prepared to work with Reddit's global community of users and advertisers.
+<!-- I have also published three empirical research articles in peer-reviewed academic journals and have six academic manuscripts currently under review (including a revise and resubmit). -->
 
-I currently manage a team of three full-time data scientists and engineers, six predoctoral fellows, one PhD student, and a large pool of undergraduate research assistants. I have experience establishing long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and evaluating behavioral interventions across diverse subject-matters and contexts. 
+I have deep technical proficiency in statistical programming (R and Python), document preparation and visualization (markdown, Quarto, and Shiny), version control (git, GitHub, and renv), programming online surveys (Javascript and html), and have managed teams using high-performance computing environments, NoSQL document-stage databases, and core machine learning Python libraries (scikit-learn, XGBoost, LightGBM, PyTorch, Optuna). I'm excited to deploy these skills in the technology sector, where analytics can inform decisions at an even faster pace.
 
-In February, terminations cancelled more than $2.5 million in committed federal funding for my projects, including a prestigious [Minerva grant](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science). Along with many displaced researchers, I am now looking to transfer my skills to the private sector. 
-I have set down roots in Philadelphia, which is a short commute by regional rail to Reddit's New York office. 
+Working at a university has also given the opportunity to teach and mentor students at the undergraduate and graduate level. My academic career has taught me the importance of mentorship, and I plan to continue fostering data science best practices by guiding junior colleagues and building a collaborative culture that values creativity and rigor. 
 
+As an applied researcher, I have been extremely successful at winning highly competitive research grants. However, recent terminations of major federal research initiatives have cut-off opportunities for high-impact collaboration between external researchers and government agencies. I am now looking to transfer my skills to the private sector. 
 
-Since 2022, I have been awarded nearly $3.5 million as a principal investigator on both federal and private research grants.
+Reddit is an ideal fit for several reasons. Having followed Reddit as an active user for years, I am enthusiastic about contributing to the platform’s growth and evolution. As the social media ecosystem becomes more fractured, Reddit’s unique role as a community-driven platform make it a critical online space. The potential to make a tangible impact on millions of users worldwide is an opportunity that I would be honored to embrace. Finally, Reddit's New York office is easily accessible by regional rail from my home in Philadelphia. 
 
-
-
-I have 10 years of experience with randomized experiments (including conjoints and RCTs), observational causal inference (including difference-in-differences and synthetic control), and machine learning (including LLMs and forecasting).
-
-
-
-
+In summary, I highly qualified and extremely excited to accelerate advertiser performance through cutting-edge experimentation, refine key metrics to empower product teams, and advance novel techniques — including ML approaches such as causal forests — within Reddit’s advertising technology. Thank you for considering my application.
 
 
 
-
-, establishing long-term collaborations with public and private sector partners, and communicating technical material to policy audiences.  
-
-
-I have six years of experience managing a team of data scientists using predictive modeling to inform programming decisions by U.S. government agencies. I am passionate about communicating evidence, and have given invited talks to hundreds of policymakers across more than a dozen agencies in five countries. 
-
-
-
-
-
-
-In my role as a research professor, 
-
-
-I have deep experience managing highly interdisciplinary research teams
-
-
-
-Demonstrated ability to apply statistical principles of experimentation
-Proficiency in statistical programming (Python/R) and SQL
-
-.
-
-At UPenn, I excelled at mentoring undergraduate students, pre-doctoral fellows, research staff, and PhD students.
-
-data-informed decision-making and product creation within Reddit's two-sided ads marketplace
-
-
-My experience working closely with policymakers and stakeholders prepares me to collaborate with Reddit's product managers and engineers to identify challenges, design solutions, and measure their impact on key outcomes.  
-
-passionate about using rigorous analytics to inform high-stakes decisions, I am eager to help Applecart's clients reach and influence decision makers as Director of Analytics & Survey Science. I have valuable expertise working with policymakers to identify high-impact research questions, designing research to provide rigorous answers, securing funding, communicating the findings to decision-makers, and thinking through the implications for policy and strategy.
-
-
-As a post-doctoral research associate, I co-founded a high-profile project leveraging recent advances in big data and machine learning to forecast political instability in emerging markets for a public-facing early warning system. Managing a team of data scientists and PhD students, I led the construction a research infrastructure to continually update a large, highly multilingual media corpus and use fine-tuned transformer models to extract information from text. My lab used this data to publish more than a dozen commissioned policy reports, develop six public-facing data dashboards averaging 150 hours of monthly active usage time by decision makers, and attracted 1,200 unique users from 73 countries over a 10 month period, with more than 800 policymakers signing up to receive our monthly reports.
-
-The success of this project led to my promotion to Research Assistant Professor at UPenn, where I manage three full-time data scientists, five pre-doctoral fellows, multiple affiliated faculty and PhD students, and a large pool of undergraduates. Since moving to UPenn in 2022, my research has received nearly $3.5 million in funding from the U.S. Department of Defense, Agency for International Development, and private foundations. 
-
-I have conducted applied research that directly informed policy decisions. Working with the US Mission to Cambodia, I designed an RCT evaluation of a major program to improve the financial capacity of small firms and non-profits working as U.S. government partners. The evaluation provided rigorous evidence that the program was failing to accomplish it's goals and resulted in program's cancellation and a more effective use of US government funds. In another project, I worked with the Agency for International Development to design a conjoint survey experiment answering important questions about the strategic behavior of non-profits receiving U.S. support to work in highly repressive countries. The findings informed the agency's approach to soliciting grant proposals from local partners.
-
-My academic position has given me years of experience working closely with government officials and other decision makers to generate and communicate tailored evidence to inform high-stakes decisions. However, I'm excited to deploy these skills in the technology sector, where analytics can inform decisions at an even faster pace. 
-
- 
-As evidence mounts that social media ecosystems are fracturing, Reddit’s commitment to fostering authentic conversations and its unique role as a community-driven platform make it a critical online space that I would be honored to contribute to. 
-
-
-
-
-<!-- During this period, I have worked closely with civil society organizations on both digital and field-based projects. This included identifying and recruiting partners in Ethiopian civil society to co-design and rigorously evaluate an intervention to increase civic engagement and social cohesion in highly polarized settings. This resulted in a highly effective [intervention](https://jrspringman.github.io/files/ethiopia_ie.pdf) that we are seeking to scale across the country. In Cambodia, I led the first RCT evaluation of an NGO capacity-building intervention, working with more than 100 CSOs over a three year period. -->
-
-
-
-<!-- As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems.  -->
-
-<!-- I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data.  -->
-
-<!-- This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with PERIL’s efforts to bring scientific excellence and statistical methods to the challenges of product creation.  -->
-
-<!-- My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions.   -->
-
-<!-- This has included broad evidence on how aid-implementation through non-profits impacts political credit as well as narrow evidence on the effectiveness of specific interventions.  -->
 
 
