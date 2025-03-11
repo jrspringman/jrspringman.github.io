@@ -1,0 +1,66 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+I am an applied researcher leading large-scale research projects bearing on conflict and polarization, social cohesion, democratic engagement, civil society, and public health. I have deep experience establishing long-term collaborations with public and private sector partners and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with cutting-edge social science research tools. Since 2022, I have won nearly \$3.5 million as a principal investigator on both federal and private grants. I would be honored to direct my skills toward the problem of community violence in Philadelphia.
+
+As a Research Assistant Professor at UPenn, I have been extremely successful at winning highly competitive research grants from both federal and private donors. In February, terminations cancelled more than $2.5 million in committed federal funding for my projects, including a prestigious [Minerva grant](https://www.science.org/content/article/pentagon-guts-national-security-program-harnessed-social-science). I have set down roots in Philadelphia and planned for it to be a permanent home. Joining Pew would allow me to keep my family in place while serving in a role that is well-suited to my interests and skills.
+
+Since moving to UPenn in 2022, I have won nearly $3.5 million in funding as principal investigator from the U.S. Department of Defense, Agency for International Development, and Open Society Foundations. Most recently, I was awarded a Minerva grant to support [interdisciplinary research](https://minerva.defense.gov/Research/Funded-Projects/Article/3956358/modeling-climate-induced-societal-adaptation-and-population/) with faculty in the Earth and Environmental Sciences Department to model the impact of climate change on adaptation, conflict, and migration.
+
+At PDRI-DevLab, I have managed multiple externally funded projects, carrying them from conceptualization through design, implementation, evaluation, and the dissemination of results to the scientific and policy communities. I currently manage a team of three full-time data scientists and engineers, six predoctoral fellows, one PhD student, and a large pool of undergraduate research assistants. I have experience establishing long-term collaborations with public and private sector partners, communicating technical material to policy audiences, and evaluating behavioral interventions across diverse subject-matters and contexts. 
+
+I am passionate about communicating evidence, and have given invited talks to hundreds of policymakers and stakeholders across more than a dozen agencies in five countries. I also designed and teach a [course on data science and causal inference for global development students](https://jrspringman.github.io/psci3200-globaldev/) and have years of experience working with UPenn's IRB to secure approval for research on highly sensitive topics involving vulnerable populations.
+
+As a post-doctoral researcher at Duke, I co-founded a high-profile project leveraging recent advances in big data and machine learning to forecast political instability for a public-facing [early warning system](https://web.sas.upenn.edu/mlp-devlab/civic-space-data-and-forecasts/csews/). I led the construction of a research infrastructure to continually update a large, highly multilingual media corpus and use fine-tuned transformer models to extract information from text. My lab used this data to publish more than a dozen commissioned policy reports, develop public-facing data dashboards averaging 150 hours of monthly active usage time, and attracted 1,200 unique users from 73 countries over a 10 month period, with more than 800 policymakers and civil society groups signing up to receive our monthly reports.
+
+As a Senior Research Associate and Research Assistant Professor, I led experimental research that directly informed policy decisions. Working with the US Mission to Cambodia, I designed an RCT evaluation of a major program to improve the financial capacity of non-profits working as U.S. government partners. The evaluation provided rigorous evidence that the program was failing to accomplish it's goals and resulted in program's cancellation. To my knowledge, this was the first RCT evaluation of an NGO capacity-building intervention and employed sophisticated randomization procedures to maximize statistical power in small samples. 
+
+In another project, I worked with the Agency for International Development to design a conjoint survey experiment answering important questions about the strategic behavior of non-profits receiving U.S. support to work in highly repressive countries. The findings informed the agency's approach to soliciting grant proposals from local partners. In Ethiopia, I identified and recruited partners in Ethiopian civil society to co-design and rigorously evaluate an intervention to increase civic engagement and social cohesion in highly polarized settings. This [project](https://jrspringman.github.io/files/ethiopia_ie.pdf) resulted in a highly effective intervention that our partners are working to scale across the country. 
+
+I would be honored to utilize my experience reducing conflict, strengthening civil society, and improving social cohesion in developing countries to accomplish these goals in Philadelphia. I identify deeply with Pew's mission of enhance civic life in the city. 
+
+
+<!-- As a Research Professor, I lead a high-profile project that developed a large, highly multilingual media corpus and pioneered the use of large language models (LLMs) in social science research to generate novel data tracking the cross-national incidence of important political events. I further leveraged this data to answer pressing policy questions and develop solutions, including public-facing event monitoring and forecasting systems.  -->
+
+<!-- I also have deep experience in randomized experiments and causal analyses, including advanced survey experimental research, large-scale randomized control trials in difficult implementation environments including ongoing civil conflict, and spatial approaches to estimating causal effects with observational panel data.  -->
+
+<!-- This deep background in experimental research, cutting-edge natural language processing, and the translation of complex findings into actionable insights aligns with PERIL’s efforts to bring scientific excellence and statistical methods to the challenges of product creation.  -->
+
+<!-- My academic position has given me years of experience working closely with policymakers to generate and communicate tailored evidence to inform important policy decisions.   -->
+
+<!-- This has included broad evidence on how aid-implementation through non-profits impacts political credit as well as narrow evidence on the effectiveness of specific interventions.  -->
+
+<!-- My research uses machine learning techniques including forecasting and large language models and causal inference tools including field and survey experiments.  -->
+<!-- I am particularly interested in developing novel design and measurement strategies to generate rigorous evidence from projects with limited budgets and challenging implementation environments. -->
+
+<!-- Occasionally, I receive invitations to participate or advise on the use of scientific methods and tools, including impact evaluations and artificial intelligence (AI), for global development.My interview with Foris International was recently published in their ``Civil Society Manifesto for Ethical AI.'' In 2023, I was a member of the Advisory Group for the 3ie Civil Society Evidence Gap Map, and I am currently serving on a panel of non-profit and legal experts to advise Amnesty International on ethical issues related to non-profit governance. -->
+
