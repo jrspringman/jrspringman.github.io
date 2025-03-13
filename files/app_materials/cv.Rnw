@@ -42,7 +42,7 @@ Updated \today \\
 \end{multicols}
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 
-I am an applied researcher leading large-scale research projects bearing on civic engagement, social cohesion, conflict and polarization, and public health. I have deep experience establishing long-term collaborations with public and private sector partners and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with cutting-edge social science research tools. Since 2022, I have won nearly \$3.5 million as a principal investigator on both federal and private grants.
+I am an applied researcher with deep experience leading large-scale research projects focused on political dynamics in conflict-affected countries and U.S. foreign policy amidst heightened geopolitical competition. I have deep experience establishing long-term collaborations with public and private sector partners and communicating technical material to policy audiences. I have six years of experience managing a team of 12 researchers and staff in a lab environment and 10 years of experience with cutting-edge social science research tools. Since 2022, I have been awarded $3.5 million as a principal investigator on both federal and private grants.
 
 \textbf{\large Academic Appointments}\\
 \rule[3mm]{\textwidth}{.2pt}
