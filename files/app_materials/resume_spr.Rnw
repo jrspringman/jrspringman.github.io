@@ -1,0 +1,152 @@
+\documentclass[11pt]{article} 
+
+\usepackage{helvet}
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+\usepackage{subcaption}
+\usepackage[left=.7in,
+            right=.7in,
+            top=.5in,
+            bottom=.5in,]{geometry}
+\addtolength{\topmargin}{0in}
+\pagenumbering{arabic}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\usepackage[font=small,skip=2pt]{caption}
+\usepackage{multicol}
+\setlength{\multicolsep}{6.0pt plus 2.0pt minus 1.5pt}% 50% of original values
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage[misc]{ifsym}
+\usepackage{enumitem}
+\usepackage[compact]{titlesec}
+\usepackage{longtable}
+\usepackage{academicons}
+\usepackage{datetime}
+\renewcommand{\today}{\monthname[\the\month] \the\year}
+
+\begin{document}
+\thispagestyle{empty}
+\SweaveOpts{concordance=TRUE}
+
+
+\begin{multicols}{2}
+{\Large {\bf Jeremy Springman, PhD}}\\
+Research Assistant Professor\\
+University of Pennsylvania\\
+%Updated \today \\
+
+\columnbreak
+\begin{flushright}
+
+\faEnvelope: \href{mailto:jspr@sas.upenn.edu}{jspr@sas.upenn.edu}\\
+\faLaptop: \url{jrspringman.github.io}\\
+\faGithub: \url{https://github.com/jrspringman}\\
+%\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
+\end{flushright}
+\end{multicols}
+%\rule[0.9\baselineskip]{\textwidth}{.5pt}
+\vspace{-10pt}
+
+Applied researcher working to design, implement, and evaluate data-driven solutions to complex problems:
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item 6 years experience hiring and managing teams of data science researchers, managing large-scale federal grants with multiple stakeholders, and delivering results that drive policy change and decision-making
+\item 10 years experience with causal inference and machine learning research design and execution
+\item Passionate about translating research into actionable recommendations to inform strategy
+\end{itemize}
+
+\textbf{\large Work Experience}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{\href{https://www.polisci.upenn.edu/}{University of Pennsylvania}, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
+Research Assistant Professor & July 2024 -- Present\\
+Senior Research Associate \& Director of Research & July 2022 -- June 2024\\
+\end{tabular*}
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item Acquired and managed \$3.5 million in funding from federal and private research grants over 2 years
+\item Managed international collaborations across government agencies, universities, implementing partners, data collection firms, and stakeholders in multiple countries
+\item Oversaw development and deployment of data dashboards and early warning system (\textbf{Shiny}) to inform crisis response and policy planning (800 policymakers signed-up for newsletter)
+\item Designed, managed, and analyzed long-term RCTs and online experiments to measure success of client projects and generate insights on program design and administration
+\item Developed course and mentored students on causal inference + research tools (\textbf{R}, \textbf{Quarto}, \textbf{GitHub})
+\end{itemize}
+%ML/AI to extract information from highly-multilingual text for a continuous, large-scale data production operation
+%Manage projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities.
+% Pre-registered complex experimental designs with simulation-based power calculations
+% 
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{\href{https://polisci.duke.edu/}{Duke University}, \href{https://www.devlabduke.com/}{DevLab@Duke}}\\
+Senior Research Associate & July 2021 -- June 2022\\
+Post-Doctoral Research Associate & January 2019 -- June 2021\\
+\end{tabular*}
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+  \item Managed development of large-scale webscraping and highly-multilingual ML text classification pipeline (\textbf{Python} and \textbf{R}) to continuously monitor and forecast political instability in 63 countries
+  \item Managed international RCT involving more than 120 local partners to measure program impact
+  \item Programmed multi-lingual online survey experiments in Qualtrics (\textbf{Javascript}, \textbf{HTML})
+  \item Published 3 empirical research articles in peer-reviewed academic journals
+\end{itemize}
+
+\textbf{\large Education}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{\href{https://www.sas.upenn.edu/polisci/}{University of Pennsylvania}}\\
+Ph.D. in Comparative Politics \& International Relations & 2019\\
+% M.A. in Political Science & 2015\\
+\textbf{University of Pittsburgh}\\
+B.A. in Politics \& Philosophy (Honors College) & 2012
+\end{tabular*}
+
+\textbf{\large Skills \& Impact}\\
+\rule[3mm]{\textwidth}{.2pt}
+\vspace{-25pt}
+\begin{itemize} \itemsep -5pt
+  \item Invited public speaking engagements addressing hundreds of policymakers and researchers across more than a dozen agencies, international organizations, and universities in five countries
+  \item Worked closely with government agency clients to design research and data products to solve problems
+  \item Commissioned trial applying original data and time-series forecasting to guide budget and operations planning at U.S. Department of State
+  \item Introduced public-facing data products used by policymakers and stakeholders to track political events and anticipate instability in developing countries
+  \item Conducted RCTs to measure the efficacy of programs, advising for programs to be cancelled or scaled according to impact
+
+\end{itemize}
+
+
+% \textbf{\large Recently Completed Projects}\\
+% \rule[3mm]{\textwidth}{.2pt}
+% \vspace{-25pt}
+% \begin{itemize} \itemsep -5pt
+%   \item Synthetic control analysis estimating effect of legal changes on dyadic aid flows (\textit{revise \& resubmit})
+%   \item RCT to expand youth social networks and civic engagement in Ethiopia + estimate network spillovers
+%   \item Conjoint survey experiment + bayesian regularization on organization decision-making in autocracies
+%   \item Original high-frequency data and evidence on strategic logic of Russia's foreign influence operations 
+%   \item Spatial difference-in-differences with ML weighting on geotagged aid projects and election outcomes
+% \end{itemize}
+
+% \textbf{\large Selected Policy Reports in 2024 (contact for full list)}\\
+% \rule[3mm]{\textwidth}{.2pt}\vspace{-5pt}
+% {\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and LLM Classification}\\
+% {\sl Forecasting High-Level Travel Advisories with Machine Learning for Peace Data}\\
+% - Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
+% {\sl Charting a Course for Applied Research in Peacebuilding}\\
+% - Published by United States Institute of Peace
+
+
+ 
+% \textbf{\large References}\\
+% \rule[3mm]{\textwidth}{.2pt}
+% \begin{multicols}{2}
+% \vspace{-20pt}
+% Erik Wibbels\\
+% Presidential Penn Compact Professor\\
+% University of Pennsylvania\\
+% ewibbels@sas.upenn.edu
+% 
+% Guy Grossman\\
+% Knott Professor of Global Politics\\
+% University of Pennsylvania\\
+% ggros@sas.upenn.edu
+% 
+% 
+% \end{multicols}
+
+\end{document}
