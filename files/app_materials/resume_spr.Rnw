@@ -84,19 +84,17 @@ Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \end{tabular*}
 \begin{itemize}[itemsep=0mm, parsep=0pt]
   \item Managed development of large-scale webscraping and highly-multilingual ML text classification pipeline (\textbf{Python} and \textbf{R}) to continuously monitor and forecast political instability in 63 countries
-  \item Managed international RCT involving more than 120 local partners to measure program impact
-  \item Designed, programmed (\textbf{Javascript}, \textbf{HTML}), and anaylzed multi-lingual online survey experiments commissioned by policymakers to 
+  \item Designed and managed international RCT involving 120 partner organizations to evaluate program effectiveness at improving financial health of U.S. government local implementing partners
+  \item Designed, programmed (\textbf{Javascript}, \textbf{HTML}), and anaylzed multi-lingual online survey experiments commissioned by clients to inform grantmaking and administration
   \item Published 3 empirical research articles in peer-reviewed academic journals
 \end{itemize}
 
 \textbf{\large Education}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
-\textbf{\href{https://www.sas.upenn.edu/polisci/}{University of Pennsylvania}}\\
-\textbullet \quad Ph.D. in Political Science & 2019\\
+\textbf{\href{https://www.sas.upenn.edu/polisci/}{University of Pennsylvania}} \textbullet \quad Ph.D. in Political Science & 2019\\
 % M.A. in Political Science & 2015\\
-\textbf{University of Pittsburgh}\\
-\textbullet \quad B.A. in Politics, Philosophy, \& Economics (Honors College) & 2012
+\textbf{University of Pittsburgh} \textbullet \quad B.A. in Politics, Philosophy, \& Economics (Honors College) & 2012
 \end{tabular*}
 
 \textbf{\large Recent Impact}\\
