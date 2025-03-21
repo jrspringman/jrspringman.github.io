@@ -101,49 +101,13 @@ Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{University of Pennsylvania} \textbullet \quad Ph.D. in Political Science & 2019\\
-% M.A. in Political Science & 2015\\
 \textbf{University of Pittsburgh} \textbullet \quad B.A. in Politics, Philosophy, \& Economics (Honors College) & 2012
 \end{tabular*}
 
-% \textbf{\large Public Engagement}\\
-% \rule[3mm]{\textwidth}{.2pt}
-% \vspace{-25pt}
-% \begin{itemize} \itemsep -5pt
-%   \item Conducted RCTs to measure the efficacy of programs, advising for programs to be cancelled, adapted, or scaled according to impact
-% 
-% \end{itemize}
+% Number of govt teams using these dashboards
+% Risk detection -> minimize risk for stakeholders
+% Construct data pipelines to detect risk; products to anticipate and communicate risk
+% Compliance with government partners
 
-% \textbf{\large Recently Completed Projects (\href{https://jrspringman.github.io/research.html}{full portfolio})}\\
-% \rule[3mm]{\textwidth}{.2pt}
-% \vspace{-25pt}
-% \begin{itemize} \itemsep -5pt
-%   \item Synthetic control analysis estimating effect of legal changes on dyadic aid flows (\textit{revise \& resubmit})
-%   \item Conjoint survey experiment + bayesian regularization on organization decision-making in autocracies
-%   \item Original high-frequency data and evidence on strategic logic of Russia's foreign influence operations
-%   \item Spatial difference-in-differences with ML weighting on geotagged aid projects and election outcomes
-% \end{itemize}
-% 
-% \textbf{\large Selected Policy Reports in 2024 (contact for full list)}\\
-% \rule[3mm]{\textwidth}{.2pt}\vspace{-5pt}
-% {\sl High Frequency Tracking of Civic Space Utilizing Domestic News Scraping and LLM Classification}\\
-% {\sl Forecasting High-Level Travel Advisories with Machine Learning for Peace Data}\\
-% - Prepared for Swift Expertise and Grounded Analytics Task Order by USAID DRG Bureau\\
-% {\sl Charting a Course for Applied Research in Peacebuilding}\\
-% - Published by United States Institute of Peace
-% 
-% \textbf{\large References}\\
-% \rule[3mm]{\textwidth}{.2pt}
-% \begin{multicols}{2}
-% \vspace{-20pt}
-% Erik Wibbels\\
-% Presidential Penn Compact Professor\\
-% University of Pennsylvania\\
-% ewibbels@sas.upenn.edu
-% 
-% Guy Grossman\\
-% Knott Professor of Global Politics\\
-% University of Pennsylvania\\
-% ggros@sas.upenn.edu
-% \end{multicols}
 
 \end{document}
