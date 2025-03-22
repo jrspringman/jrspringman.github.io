@@ -85,7 +85,7 @@ Post-Doctoral Research Associate & January 2019 -- June 2021\\
 \begin{itemize}[itemsep=0mm, parsep=0pt]
   \item Managed development of large-scale webscraping and highly-multilingual ML text classification pipeline (\textbf{Python} and \textbf{R}) to continuously monitor and forecast political instability in 63 countries
   \item Designed and managed international RCT involving 120 partner organizations to evaluate program effectiveness at improving financial health of U.S. government local implementing partners
-  \item Designed, programmed (\textbf{Javascript}, \textbf{HTML}), and anaylzed multi-lingual online survey experiments commissioned by clients to inform grantmaking and administration
+  \item Designed, programmed (\textbf{Javascript}, \textbf{HTML}), and analyzed multi-lingual online survey experiments commissioned by clients to inform grantmaking and administration
   \item Published 3 empirical research articles in peer-reviewed academic journals
 \end{itemize}
 
