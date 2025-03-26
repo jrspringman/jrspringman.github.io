@@ -26,7 +26,6 @@ header-includes:
 \begin{flushleft}
 Jeremy Springman, PhD\\
 Director of Research, PDRI-DevLab\\
-Research Assistant Professor\\
 University of Pennsylvania\\
 \url{jrspringman.github.io}
 \end{flushleft}
