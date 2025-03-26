@@ -58,8 +58,8 @@ University of Pennsylvania\\
 
 Research director leading projects to design, implement, and evaluate data-driven solutions:
 \begin{itemize}[itemsep=0mm, parsep=0pt]
-\item 6 years experience managing large-scale international research projects, leading data science teams, coordinating dozens of stakeholders, and delivering results that drive decision-making
-\item 10 years experience with randomized experiments, causal inference, machine learning, and AI 
+\item 8 years experience managing large-scale international research projects, leading data science teams, coordinating dozens of stakeholders, and delivering results that drive decision-making
+\item 12 years experience with randomized experiments, causal inference, machine learning, and AI 
 \item Passionate about translating research into actionable recommendations that inform strategy
 \end{itemize}
 
