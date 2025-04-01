@@ -33,9 +33,10 @@
 \usepackage{datetime}
 \renewcommand{\today}{\monthname[\the\month] \the\year}
 
+\usepackage{Sweave}
 \begin{document}
 \thispagestyle{empty}
-\SweaveOpts{concordance=TRUE}
+\input{netflix_resume-concordance}
 
 
 \begin{multicols}{2}
