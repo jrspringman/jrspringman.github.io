@@ -1,0 +1,58 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[left=.7in,
+            right=.7in,
+            top=.8in,
+            bottom=.5in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Director of Research, PDRI-DevLab\\
+Research Assistant Professor, University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+I am an applied researcher with unique qualifications for the Globalization Data Science and Engineering team. I have extensive background partnering with local stakeholders to implement randomized experiments across many countries, cultures, and languages, leveraging ML to facilitate research on media published low-resource languages, and leading localization efforts in developing countries. 
+
+As a Director of Research at PDRI-DevLab and Research Assistant Professor at the University of Pennsylvania, I have spent the last decade using randomized experiments, causal inference, and machine learning to inform high-stakes decision-making by policymakers in the U.S. government. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants, carrying projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities. Currently, I manage an interdisciplinary team of twelve data scientists, multiple affiliated faculty and PhD students, and a large pool of undergraduates, mentoring several junior team members into management positions.  
+
+I have deep experience leading randomized experiments and causal inference projects commissioned by stakeholders to generate actionable insights. These projects have given me years of experience using advanced methods to address novel design and measurement challenges. I have designed and publicly pre-registered more than a dozen randomized experiments using bespoke simulation-based power calculations. I have also leveraged tools like non-bipartite matching, matched-group randomization, and re-randomization to extract maximum statistical precision from small and high variance samples and deployed sophisticated approaches to adjust for multiple-hypothesis testing, including Bayesian regularization. I have also designed trials to deal with the reality of social networks by collecting and using network data to estimate the size of treatment spillovers through network connections.
+
+I also have extensive background in machine learning research. As a post-doctoral research associate, I co-founded a high-profile project to build a public-facing early warning system forecasting political instability in emerging markets. Managing a team of data scientists and PhD students, I led the construction of a research infrastructure to continually update a large, highly multilingual corpus of high-quality media and use deep learning translation models and fine-tuned transformers and LLMs to extract information from text. This project's funding was renewed over six years and attracted support from the U.S. Department of Defense, Agency for International Development, and private donors.
+
+In addition to giving invited talks to hundreds of policymakers across more than a dozen agencies in five countries, I led efforts to partner with local organizations on the production, validation, and utilization of the project's data and analytics. My lab used data from this project publish more than a dozen commissioned policy reports, develop public-facing data dashboards averaging 150 hours of monthly active usage time by decision-makers, and attracted 1,200 unique users from 70 countries over a 10 month period, with more than 800 policymakers signing up to receive our monthly reports. The success of this project lead to my appointment as academic lead over USAID's flagship localization initiative, designed to coach local partners to become prime awardees.
+
+My causal inference research has directly informed policy, ranging from the cancellation of failing projects to changes in how USAID administers awards to local partners to the inclusion of behavioral science insights into how USAID approaches engagement with youth. My experience working closely with international policymakers and local stakeholders has prepared me to collaborate with product managers and engineers on Netflix's GlobaData Science and Engineering team. I have a track record of leading complex causal inference research across highly diverse contexts (including long-term projects in Cambodia, Ethiopia, Serbia, Uganda, and Ghana) involving dozens of partners and translating complex analyses into clear, strategic recommendations. 
+<!-- I have also published three empirical research articles in peer-reviewed academic journals and have six academic manuscripts currently under review (including a revise and resubmit). -->
+
+
+
+
+
+
+
+
+
+
+
