@@ -1,0 +1,57 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ }
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[left=.7in,
+            right=.7in,
+            top=.5in,
+            bottom=.5in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Director of Research, PDRI-DevLab\\
+Research Assistant Professor, University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+
+I am an applied researcher with 10 years of experience using experimental methods commissioned by stakeholders to inform real-world decision-making. As a Director of Research in a large social science research lab, I have led end-to-end experimental research—from conceptualization and design, through implementation, measurement, analysis, and stakeholder engagement. My work frequently uses innovative approaches to measurement and experimental design, with a focus on identifying causal mechanisms rather than just estimating treatment effects. I have developed reusable tools to scale these methods across teams and partners, including simulation-based power calculations using DeclareDesign, multi-lingual survey experiments in Qualtrics with custom Javascript and HTML, Bayesian regularization for multiple comparisons, and interactive data visualizations using Shiny for R and Python. I work closely with stakeholders to interpret results, identify actionable insights, and integrate those insights into product and policy strategy. I would be excited to bring this experience to Upstart, where I can contribute to optimizing the borrower-lender marketplace through rigorous experimentation and causal inference.
+
+Over the past six years, I have managed and mentored an interdisciplinary team of twelve researchers and data scientists. Under my leadership, the team has planned and executed numerous large-scale projects with an emphasis on rigor, transparency, and policy relevance. Since 2022, I have been awarded nearly $3.5 million as a principal investigator on both federal and private research grants, guiding projects from conceptualization through design, implementation, and dissemination. My experience collaborating closely with policymakers and stakeholders equips me to work effectively with Upstart’s product managers, engineers, and scientists to generate actionable insights through experimentation and model-based optimization.
+
+I have deep experience communicating complex statistical findings to both technical and non-technical audiences. My work frequently involves embedding with stakeholders to identify problems, design interventions, and communicate findings in ways that shape strategy. I have been invited to speak in front of hundreds of policymakers across five countries, from the U.S. State Department in Washington D.C. to embassy and field staff in emerging markets. This background has prepared me to contribute to cross-functional teams at Upstart, aligning scientific rigor with business and product objectives.
+
+My methodological strengths are rooted in causal inference and experimental design. I have designed and pre-registered more than a dozen randomized evaluations, relying on tools like matched-group randomization, re-randomization, and simulation-based power analysis to maximize statistical precision. I have addressed complex challenges like network interference and high-variance small samples, and adjusted for multiple hypothesis testing using principled Bayesian techniques. My technical skills include R and Python for statistical modeling, git for version control, and Quarto and Shiny for building intuitive data products. I have also managed teams using HPC infrastructure, non-relational databases, and Python’s core machine learning libraries (scikit-learn, XGBoost, LightGBM, PyTorch, Optuna).
+
+My experimental research has directly shaped policy outcomes. In one randomized evaluation, my findings showed that a U.S. government foreign aid program was not meeting its goals, leading to the program’s cancellation. In another, I used a conjoint survey experiment to assess the strategic behavior of U.S.-funded nonprofits, resulting in revised partner engagement strategies. A third project designed and tested an intervention to increase civic engagement among youth in polarized contexts—an intervention that is now being scaled across multiple countries.
+
+Additionally, I co-founded a long-running machine learning initiative that built a multilingual early warning system for political instability. Leading a team of data scientists and PhDs, I oversaw the development of infrastructure to ingest, translate, and analyze global news data using deep learning and transformer models. This project—supported by agencies like USAID and the Department of Defense—has reached hundreds of policy users across more than 70 countries.
+
+<!-- I am drawn to Upstart’s mission to expand access to credit through AI and marketplace optimization, and I am excited about the opportunity to contribute by applying advanced experimentation, causal inference, and statistical modeling to complex business challenges. -->
+
+
+
+
+
+
+
+
