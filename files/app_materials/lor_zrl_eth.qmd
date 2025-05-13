@@ -1,0 +1,47 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ \includegraphics[width=1.7in]{DevLab_Logo_29Mar2023.png}}
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[margin = 1in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Research Assistant Professor\\
+Department of Political Science\\
+University of Pennsylvania\\
+\end{flushleft}
+<!-- \url{jrspringman.github.io} -->
+
+I am writing with the strongest enthusiasm to recommend Zung-Ru Lin for the Data Science Researcher position with the International Relations and Data Science group at ETH Zürich. As a Research Assistant Professor in the Department of Political Science at the University of Pennsylvania and a Director of Research in the PDRI-DevLab social science research lab, I have worked closely with Zung-Ru for the past four years in his role as Chief Data Scientist. In that time, I have come to regard him as one of the most talented, creative, and reliable applied researchers I have encountered in more than a decade of collaborating with academic faculty and post-doctoral fellows.
+
+Zung-Ru combines deep expertise in large-scale NLP and AI, causal inference methods, and machine learning systems engineering with a passion for the substantive questions that animate political economy and international relations research. Zung-Ru also has excellent communication skills, an incredible work ethic, and valuable leadership qualities.
+
+Zung-Ru designed and now oversees our lab’s production-grade pipeline that collects unstructured text from more than 400 news outlets in 40 languages, performs translation and extracts location information and event classification, fine-tunes transformer models, and developes bespoke analytic products for partners such as0the US Agency for International Develop, Departments of State and Defense, the World Bank, and the International Organization for Migration. 
+
+These projects provided U.S. government missions across more than 70 countries with actionable intelligence, included data dashboards averaging 150 hours of monthly active usage time by U.S. policy-makers, and attracted more than 1,200 unique users over a 10 month period. Furthermore, more than 800 U.S. government policymakers signed up to receive monthly reports summarizing the project's most recent findings and forecasts. Zung-Ru is also a co-author on more than a dozen policy reports and three academic working papers produced during his time as Chief Data Scientist.
+
+During the first weeks of the Russian invasion of Ukraine, his social-media event-detection system processed five million tweets daily, providing granular situational awareness to humanitarian responders. He also recently submitted a paper for peer review that proposes the Modular Gated Attention (MGA) architecture—an innovative transformer variant that improves long-range sequence modeling and interpretability.
+
+Zung-Ru is an excellent manager and mentor to other team members. He oversees a large group of undergraduate research assistants, guides PhD students through advanced NLP methods, and routinely translates technical concepts for domain experts in economics and political science. He is extremely experienced in guiding researchers through the process of identifying and implementing the right tools for cutting-edge empirical research.
+
+In sum, Zung-Ru Lin is not only technically brilliant and scientifically creative but also an extremely nice person to spend time with. Furthermore, his expertise in both the data engineering and the cutting-edge data science side is exceedingly rare. These qualities make him an ideal fit for ETH Zürich. I recommend him to you with great enthusiasm and would be happy to further discuss his candidacy.
+
