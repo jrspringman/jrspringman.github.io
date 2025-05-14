@@ -1,0 +1,54 @@
+---
+toc: false
+
+format: pdf
+editor: source
+
+header-includes:
+  - \usepackage{fontawesome5}
+  - \usepackage{xcolor}
+  - \definecolor{quarto-callout-color}{HTML}{909090}
+  - \usepackage{fancyhdr}
+  - \usepackage{graphicx}
+  - \pagestyle{fancy}
+  - \fancyhead[R]{ }
+  - \fancyhead[L]{}
+  - \fancyhead[C]{}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \usepackage[left=.7in,
+            right=.7in,
+            top=.5in,
+            bottom=.5in]{geometry} 
+  - \addtolength{\topmargin}{0in}
+  - \fancyfoot[C]{}
+  - \renewcommand{\footrulewidth}{0pt}
+  - \pagenumbering{gobble}
+---
+
+
+\begin{flushleft}
+Jeremy Springman, PhD\\
+Director of Research, PDRI-DevLab\\
+Research Assistant Professor, University of Pennsylvania\\
+\url{jrspringman.github.io}
+\end{flushleft}
+
+
+I am a data scientist with a decade of experience using experimentation and causal inference, machine learning, and advanced analytics to drive user engagement and strategy. As a Director of Research at University of Pennsylvania, I use data science tools to design and evaluations to drive growth and inform high-stakes decision-making by policymakers in the U.S. government and their stakeholders around the world. While much of my work has served the public sector, the same principles of growth experimentation, funnel optimization, and user segmentation have guided our development of digital tools to increase user uptake and engagement—lessons directly applicable to Adobe’s PLG strategy. I regularly use R and Python to build statistical and machine learning models, run A/B tests, and conduct causal inference analyses. I have also developed dynamic dashboards using Quarto and Shiny, and am eager to leverage platforms like Tableau or Adobe Analytics for broader product insights.
+
+Over the past six years, I have managed and mentored an interdisciplinary team of twelve researchers and data scientists. Under my leadership, this team has planned and executed many large-scale projects, ensuring that the findings are both rigorous and actionable. Since 2022, I have been awarded nearly \$3.5 million as a principal investigator on both federal and private research grants, carrying projects from conceptualization and proposal through design, implementation, and the dissemination of results to the scientific and policy communities. My experience working closely with policymakers and stakeholders prepares me to collaborate with Adobe's product managers and engineers to identify challenges, design solutions, and measure their impact on key outcomes. 
+
+I also have deep experience communicating research design and findings to both technical and non-technical partners. The success of my projects has relied on an ability to embed with stakeholders, understand their needs, and communicate the implications of research findings for strategy. I have been invited to speak in front of hundreds of policymakers across dozens of government agencies and international organizations in five countries. From policy officials at the U.S. Department of State in Washington D.C. to embassy staff and local stakeholders across emerging markets, I have built a track record of translating complex analyses into clear, strategic recommendations. Furthermore, my international experience makes me well prepared to work with Adobe's global base of customers.
+
+My projects have given me years of experience using advanced methods to address novel design and measurement challenges. I have designed and publicly pre-registered more than a dozen randomized experiments using bespoke simulation-based power calculations. I have also leveraged tools like non-bipartite matching, matched-group randomization, and re-randomization to extract maximum statistical precision from small and high variance samples and deployed sophisticated approaches to adjust for multiple-hypothesis testing. I have also designed trials to deal with the reality of social networks by collecting and using network data to estimate the size of treatment spillovers through network connections. I have deep technical proficiency in statistical programming (R, Python), building interactive data visualization dashboards and websites (Quarto, Shiny), version control (git), and have managed teams using high-performance computing environments, flexible document-storage databases, and core machine learning Python libraries (scikit-learn, XGBoost, LightGBM, PyTorch, Optuna). 
+
+I also have extensive background in machine learning research. In 2019, I co-founded a high-profile project to build a public-facing early warning system forecasting political instability in emerging markets. Managing a team of data scientists and PhD students, I led the construction of a research infrastructure to continually update a large, highly multilingual corpus of high-quality media and use deep learning translation models and fine-tuned transformers and LLMs to extract information from text. This project's funding was renewed over six years and attracted support from the U.S. Department of Defense, Agency for International Development, and private donors. Our public-facing data dashboards average 150 hours of monthly usage time by decision-makers, and attracted 1,200 unique users from 70 countries over a 10 month period, with more than 800 policymakers signing up to receive our monthly reports. 
+
+
+
+
+
+
+
+
+
