@@ -1,0 +1,113 @@
+\documentclass[11pt]{article} 
+
+\usepackage{helvet}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    }
+\usepackage{csquotes}
+\usepackage{subcaption}
+\usepackage[left=.7in,
+            right=.7in,
+            top=.7in,
+            bottom=.5in,]{geometry}
+\addtolength{\topmargin}{0in}
+\pagenumbering{arabic}
+\usepackage{ragged2e}
+\usepackage{parskip}
+\setlength{\parindent}{0pt}
+\usepackage[font=small,skip=2pt]{caption}
+\usepackage{multicol}
+\setlength{\multicolsep}{6.0pt plus 2.0pt minus 1.5pt}% 50% of original values
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage[misc]{ifsym}
+\usepackage{enumitem}
+\usepackage[compact]{titlesec}
+\usepackage{longtable}
+\usepackage{academicons}
+\usepackage{datetime}
+\renewcommand{\today}{\monthname[\the\month] \the\year}
+
+\begin{document}
+\thispagestyle{empty}
+\SweaveOpts{concordance=TRUE}
+
+
+\begin{multicols}{2}
+{\Large {\bf Jeremy Springman, PhD}}\\
+Director of Research, PDRI-DevLab\\
+University of Pennsylvania\\
+%Updated \today \\
+
+\columnbreak
+\begin{flushright}
+
+\faEnvelope: \href{mailto:jspr@sas.upenn.edu}{jspr@sas.upenn.edu}\\
+\faLaptop: \url{jrspringman.github.io}\\
+\faGithub: \url{https://github.com/jrspringman}\\
+%\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
+\end{flushright}
+\end{multicols}
+%\rule[0.9\baselineskip]{\textwidth}{.5pt}
+\vspace{-10pt}
+
+Research director leading projects to design, implement, and evaluate data-driven solutions:
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+\item 8 years experience managing large-scale international research projects, leading data science teams, coordinating dozens of stakeholders, and delivering results that drive decision-making
+\item 12 years experience with randomized experiments, causal inference, machine learning, and AI 
+\item Passionate about translating research into actionable recommendations that inform strategy
+\end{itemize}
+
+\textbf{\large Work Experience}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{University of Pennsylvania, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
+Director of Research: Research Assistant Professor & July 2024 -- Present\\
+Director of Research: Senior Research Associate & July 2022 -- June 2024\\
+\end{tabular*}
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+  \item Acquired and managed \$3.5 million in funding from federal and private research grants
+  \item Managed team of 12 data scientists and mentored junior team members into management positions 
+  \item Introduced \href{https://web.sas.upenn.edu/mlp-devlab/civic-space-data-and-forecasts/}{data dashboards, early warning system, and monthly newsletter} used by 800 stakeholders to guide crisis response
+  \item Delivered results from \href{https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2024/11/Forecasting-DOS-Travel-Advisories-with-Machine-Learning-for-Peace-Data-V2-internal.pdf}{commissioned trial} applying original data and time-series forecasting to guide budget and operations planning at U.S. Department of State
+  \item Scaled \href{https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2024/08/Presenting_MLP.pdf}{data production pipeline} to corpus of 200+ million documents (MongoDB) scraping 400 sources and processing text in 40 languages using neural machine translations (NMT), RoBERTa, and LLMs
+  \item Designed, managed, and analyzed \href{https://jrspringman.github.io/files/ethiopia_ie.pdf}{RCT to expand civic engagement in Ethiopia} and estimate network spillovers, collaborating with local university, government agencies, and 3 implementing partners
+  \item Produced 7 major \href{https://jrspringman.github.io/research.html#select-commissioned-policy-reports}{commissioned policy reports} and submitted 6 \href{https://jrspringman.github.io/research.html#under-review}{research manuscripts} for peer-review
+   \item Designed and analyzed online experiments to measure success of client projects and generate insights on program design and administration
+   \item 20 invited \href{https://jrspringman.github.io/public.html#world-bank-engagefest-webinar}{public speaking engagements} addressing hundreds of policymakers, stakeholders, and researchers across 5 countries
+  \item Developed \href{https://jrspringman.github.io/psci3200-globaldev/}{undergraduate course} covering statistics, causal inference, and computational tools (R, Quarto, GitHub) for international development students
+\end{itemize}
+
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{Duke University, DevLab@Duke}\\
+Senior Research Associate & July 2021 -- June 2022\\
+Post-Doctoral Research Associate & January 2019 -- June 2021\\
+\end{tabular*}
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+  \item Co-founded \href{https://web.sas.upenn.edu/mlp-devlab/}{Machine Learning for Peace} project, which secured 7 years of renewed funding
+  \item Managed development of data pipeline using webscraping and highly-multilingual text classification (Python and R) to continuously monitor and forecast political events in developing countries
+  \item Designed, managed, and analyzed \href{https://jrspringman.github.io/files/cambodia_ie.pdf}{RCT to improve financial health} of USAID partners in Cambodia involving 120 partner organizations, 3 international NGOs, and 2 universities; analysis lead to major program reforms
+  \item Designed, programmed (Javascript, HTML), and analyzed  multi-lingual online survey experiments commissioned by clients to inform grantmaking and administration
+  \item Published \href{https://jrspringman.github.io/research.html}{3 empirical research articles} in peer-reviewed academic journals and produced 5 major commissioned policy reports
+\end{itemize}
+
+\textbf{\large Education}\\
+\rule[3mm]{\textwidth}{.2pt}
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{University of Pennsylvania} \textbullet \quad Ph.D. in Political Science & 2019\\
+\textbf{University of Pittsburgh} \textbullet \quad B.A. in Politics, Philosophy, \& Economics (Honors College) & 2012
+\end{tabular*}
+
+% Number of govt teams using these dashboards
+% Risk detection -> minimize risk for stakeholders
+% Construct data pipelines to detect risk; products to anticipate and communicate risk
+% Compliance with government partners
+
+
+\end{document}
