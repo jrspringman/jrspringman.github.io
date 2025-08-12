@@ -54,7 +54,7 @@ Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
 
 <p><strong>Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation</strong><br />
 with Lucy Right and Erik Wibbels<br />
-Revise & Resubmit, *International Organization*<br />
+Conditionally Accepted, *International Organization*<br />
 [[paper and appendix](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}]</p>
 ::: {.grid  }
 ::: {.g-col-8}
@@ -117,7 +117,10 @@ First author, with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Li
 :::
 
 <p><strong>Two dilemmas in the politics of ethnic federalism: Experimental evidence from Ethiopia</strong><br />
-with Braeden Davis, David Dow, and Juan Tellez<br/>[[paper](/files/ethiopia_experiments.pdf){target="_blank"}][[appendix](/files/ethiopia_experiments_appendix.pdf){target="_blank"}]</p>
+with Braeden Davis, David Dow, and Juan Tellez<br/>
+Revise & Resubmit, *Journal of Conflict Resolution*<br />
+
+[[paper](/files/ethiopia_experiments.pdf){target="_blank"}][[appendix](/files/ethiopia_experiments_appendix.pdf){target="_blank"}]</p>
 ::: {.grid  }
 ::: {.g-col-8}
 <p style="font-size: 15px;  text-align: justify;">Ethnic federalism, a system that devolves power to subnational states drawn along ethnic lines, is a widely debated approach to managing ethnic conflict. While scholars have studied its macro-level consequences, little is known about micro-level preferences within these countries. We examine two key dilemmas of ethnic federalism: (1) the minorities within minorities dilemma, where many ethnic group members live outside their designated state, and (2) the devolution dilemma, which concerns which powers should be held by the central versus state governments. Using survey experiments among Ethiopian university students, we find that support for ethnic federalism varies based on expectations of power distribution, but only among politically and ethnically intolerant respondents. Security policy is the primary concern in debates over devolution, followed by cultural policies. Our findings highlight the importance of micro-level perspectives in understanding the stability of ethnofederal systems and the political consequences of their reform.</p>
