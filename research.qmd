@@ -39,6 +39,34 @@ First author, with Edmund Malesky, Lucy Right, and Erik Wibbels<p />
 <p><strong>Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda</strong><br />
 <i>Political Science Research and Methods, 2023</i> [<a href="https://doi.org/10.1017/psrm.2023.14" target="_blank" rel="noopener">paper</a>] [<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265#supplementary-materials" target="_blank" rel="noopener">appendix</a>]<br />
 Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
+
+<p><strong>Pushing Back or Backing Down? Evidence on Donor Responses to Restrictive NGO Legislation</strong><br /><i>International Organization</i>, 2025.
+[[paper and appendix](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}][<a href="https://www.cambridge.org/core/journals/international-organization/article/pushing-back-or-backing-down-evidence-on-donor-responses-to-restrictive-ngo-legislation/9365B7A1D39A5548351ADEC6E4F09181" target="_blank" rel="noopener">online</a>]<br />
+First author, with Lucy Right and Erik Wibbels</p>
+
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px; text-align: justify;">As authoritarianism has spread around the world, government efforts to stifle civic space have increased dramatically. Among the most alarming tactics has been the spread of restrictive laws targeting non-governmental organizations (NGOs). While such laws threaten the core objectives of many foreign donors, they have become especially common in aid-dependent nations. How do foreign donors react to this assault on their local and international development partners? Testing these arguments using dyadic data on aid flows, an original dataset of NGO laws, and a variety of research designs, we find that the donors most committed to democracy promotion back down in the face of restrictive NGO laws, reducing support for advocacy work by over 70%. Our findings suggest that donor behavior creates strong incentives for governments in aid-receiving countries to use legal measures to crackdown on civil society.</p>
+:::
+
+::: {.g-col-4}
+![](/files/img/ngo_laws.png)
+:::
+:::
+
+<p><strong>Two Dilemmas in the Politics of Ethnic Federalism: Experimental Evidence from Ethiopia</strong><br />
+<i>Journal of Conflict Resolution</i>, Online First (February 2026). [<a href="https://journals.sagepub.com/doi/10.1177/00220027261427753" target="_blank" rel="noopener">online</a>]
+[[paper](/files/ethiopia_experiments.pdf){target="_blank"}][[appendix](/files/ethiopia_experiments_appendix.pdf){target="_blank"}]<br />
+Second author, with Braeden Davis, David Dow, and Juan Tellez</p>
+
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px;  text-align: justify;">Ethnic federalism, a system that devolves power to subnational states drawn along ethnic lines, is a widely debated approach to managing ethnic conflict. While scholars have studied its macro-level consequences, little is known about micro-level preferences within these countries. We examine two key dilemmas of ethnic federalism: (1) the minorities within minorities dilemma, where many ethnic group members live outside their designated state, and (2) the devolution dilemma, which concerns which powers should be held by the central versus state governments. Using survey experiments among Ethiopian university students, we find that support for ethnic federalism varies based on expectations of power distribution, but only among politically and ethnically intolerant respondents. Security policy is the primary concern in debates over devolution, followed by cultural policies. Our findings highlight the importance of micro-level perspectives in understanding the stability of ethnofederal systems and the political consequences of their reform.</p>
+:::
+::: {.g-col-4}
+![](/files/img/ethiopia_experiments.png)
+:::
+:::
 ::: {.grid  }
 ::: {.g-col-8}
 <p style="font-size: 15px; text-align: justify;">It is widely believed that oil discoveries cause bad governance and conflict. However, research on the political resource curse argues that oil often increases support for incumbent chief executives while the conflict curse literature suggests it erodes it, especially when discovered in opposition areas. We draw on research on distributive politics to theorize how the effects of oil on incumbent support will vary depending on whether it is discovered in core, swing, or opposition constituencies. Our findings, based on electoral and survey data from Uganda and a difference-in-differences design with heterogeneous effects, show that differential voter responsiveness to targeted oil benefits increased support for the incumbent when oil is discovered in swing constituencies. Ultimately, we highlight how the local political context shapes the effect of oil on the strength of support for the incumbent chief executive, with important implications for understanding the roots of both the political and conflict curses.</p>
@@ -51,19 +79,6 @@ Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
 
 
 ### Under Review
-
-<p><strong>Pushing Back or Backing Down? Examining Donor Response to Restrictive NGO Legislation</strong><br />
-with Lucy Right and Erik Wibbels<br />
-Conditionally Accepted, *International Organization*<br />
-[[paper and appendix](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}]</p>
-::: {.grid  }
-::: {.g-col-8}
-<p style="font-size: 15px;  text-align: justify;">As authoritarianism has spread around the world, government efforts to stifle civic space have increased dramatically. Among the most alarming tactics has been the spread of restrictive laws targeting non-governmental organizations (NGOs). While such laws threaten the core objectives of many foreign donors, they have become especially common in aid-dependent nations. How do foreign donors react to this assault on their local and international development partners? Do their responses hinge on their commitment to promoting democracy? On one hand, democracy-focused donors might push back, ramping up support for advocacy in defiance of draconian measures. Alternatively, when restrictions make it difficult to work with local partners, donors might back down to aspiring autocrats by decreasing support for advocacy. Testing these arguments using dyadic data on aid flows, an original dataset of NGOs laws, and a variety of research designs, we find that the donors most committed to democracy promotion back down in the face of restrictive NGO laws, reducing support for advocacy work by over 70%. Our findings suggest that donor behavior creates strong incentives for governments in aid-receiving countries to use legal measures to crackdown on civil society.</p>
-:::
-::: {.g-col-4}
-![](/files/img/ngo_laws.png)
-:::
-:::
 
 <p><strong>Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda</strong><br />
 [[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br /></p>
@@ -113,20 +128,6 @@ First author, with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Li
 :::
 ::: {.g-col-4}
 ![](/files/img/changepoint_themes.png)
-:::
-:::
-
-<p><strong>Two dilemmas in the politics of ethnic federalism: Experimental evidence from Ethiopia</strong><br />
-with Braeden Davis, David Dow, and Juan Tellez<br/>
-Revise & Resubmit, *Journal of Conflict Resolution*<br />
-
-[[paper](/files/ethiopia_experiments.pdf){target="_blank"}][[appendix](/files/ethiopia_experiments_appendix.pdf){target="_blank"}]</p>
-::: {.grid  }
-::: {.g-col-8}
-<p style="font-size: 15px;  text-align: justify;">Ethnic federalism, a system that devolves power to subnational states drawn along ethnic lines, is a widely debated approach to managing ethnic conflict. While scholars have studied its macro-level consequences, little is known about micro-level preferences within these countries. We examine two key dilemmas of ethnic federalism: (1) the minorities within minorities dilemma, where many ethnic group members live outside their designated state, and (2) the devolution dilemma, which concerns which powers should be held by the central versus state governments. Using survey experiments among Ethiopian university students, we find that support for ethnic federalism varies based on expectations of power distribution, but only among politically and ethnically intolerant respondents. Security policy is the primary concern in debates over devolution, followed by cultural policies. Our findings highlight the importance of micro-level perspectives in understanding the stability of ethnofederal systems and the political consequences of their reform.</p>
-:::
-::: {.g-col-4}
-![](/files/img/ethiopia_experiments.png)
 :::
 :::
 

@@ -40,14 +40,14 @@
 
 \begin{multicols}{2}
 {\Large {\bf Jeremy Springman, PhD}}\\
-Director of Research, PDRI-DevLab\\
-University of Pennsylvania\\
+Research Scientist, Demography \& Survey Science\\
+Meta\\
 %Updated \today \\
 
 \columnbreak
 \begin{flushright}
 
-\faEnvelope: \href{mailto:jspr@sas.upenn.edu}{jspr@sas.upenn.edu}\\
+\faEnvelope: \href{mailto:jeremyrgs6@gmail.com}{jeremyrgs6@gmail.com}\\
 \faLaptop: \url{jrspringman.github.io}\\
 \faGithub: \url{https://github.com/jrspringman}\\
 %\aiGoogleScholar:  \url{https://shorturl.at/ixTW8}\\
@@ -56,18 +56,31 @@ University of Pennsylvania\\
 %\rule[0.9\baselineskip]{\textwidth}{.5pt}
 \vspace{-10pt}
 
-Research director leading projects to design, implement, and evaluate data-driven solutions:
+Research scientist with expertise in AI, causal inference, and data-driven product development:
 \begin{itemize}[itemsep=0mm, parsep=0pt]
-\item 8 years experience managing large-scale international research projects, leading data science teams, coordinating dozens of stakeholders, and delivering results that drive decision-making
-\item 12 years experience with randomized experiments, causal inference, machine learning, and AI 
-\item Passionate about translating research into actionable recommendations that inform strategy
+\item 10+ years of quantitative research experience (causal inference, ML, LLMs, survey methodology) applied to industry, policy, and academic questions
+\item End-to-end builder: designed and shipped production data pipelines, AI-native platforms, and automated analytics systems
+\item Experienced team lead and technical mentor; track record of delivering for stakeholders and communicating insights to senior leadership
 \end{itemize}
 
 \textbf{\large Work Experience}\\
 \rule[3mm]{\textwidth}{.2pt}
 \noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+\textbf{Meta}\\
+Research Scientist, Demography \& Survey Science (DSS) & July 2025 -- Present\\
+\end{tabular*}
+\begin{itemize}[itemsep=0mm, parsep=0pt]
+  \item Built Sentimate, DSS's AI-native cross-survey insights platform from scratch --- expanded metric coverage from 5 to 204 time series across 17 geographies with automated ETL pipelines, statistical decomposition, competitor tracking for 7 companies, and LLM-powered headline analysis
+  \item Designated ``AI Captain'': co-designed and led 4+ three-day Claude Code workshops training $\sim$45 DSS researchers; every participant built and shipped functional tools by Day 2
+  \item Selected as 1 of 3 ICs to design and deliver a full-day hands-on AI training for DSS senior leadership (VP-level); participants shipped their first production code commits
+  \item Produced 6+ monthly competitive intelligence reports on LLM developer adoption and sentiment, surfacing strategic findings for Meta leadership
+  \item Reviewed 208+ code diffs across the DSS team; created 15 shared Claude Code skill libraries to accelerate team-wide AI adoption
+\end{itemize}
+
+\noindent\begin{tabular*}{\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
 \textbf{University of Pennsylvania, \href{https://web.sas.upenn.edu/dev-lab/}{PDRI-DevLab}}\\
-Director of Research: Research Assistant Professor & July 2024 -- Present\\
+Non-Resident Scholar & July 2025 -- Present\\
+Director of Research: Research Assistant Professor & July 2024 -- July 2025\\
 Director of Research: Senior Research Associate & July 2022 -- June 2024\\
 \end{tabular*}
 \begin{itemize}[itemsep=0mm, parsep=0pt]
