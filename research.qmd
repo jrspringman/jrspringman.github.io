@@ -39,6 +39,14 @@ First author, with Edmund Malesky, Lucy Right, and Erik Wibbels<p />
 <p><strong>Oil Discoveries and Political Windfalls: Evidence on Presidential Support in Uganda</strong><br />
 <i>Political Science Research and Methods, 2023</i> [<a href="https://doi.org/10.1017/psrm.2023.14" target="_blank" rel="noopener">paper</a>] [<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/oil-discoveries-and-political-windfalls-evidence-on-presidential-support-in-uganda/815B8BF178DA7BEF7CA186C3AC19A265#supplementary-materials" target="_blank" rel="noopener">appendix</a>]<br />
 Second author, with Laura Paler, Guy Grossman, and Jan Pierskalla</p>
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px; text-align: justify;">It is widely believed that oil discoveries cause bad governance and conflict. However, research on the political resource curse argues that oil often increases support for incumbent chief executives while the conflict curse literature suggests it erodes it, especially when discovered in opposition areas. We draw on research on distributive politics to theorize how the effects of oil on incumbent support will vary depending on whether it is discovered in core, swing, or opposition constituencies. Our findings, based on electoral and survey data from Uganda and a difference-in-differences design with heterogeneous effects, show that differential voter responsiveness to targeted oil benefits increased support for the incumbent when oil is discovered in swing constituencies. Ultimately, we highlight how the local political context shapes the effect of oil on the strength of support for the incumbent chief executive, with important implications for understanding the roots of both the political and conflict curses.</p>
+:::
+::: {.g-col-4}
+![](/files/img/psrm.png)
+:::
+:::
 
 <p><strong>Pushing Back or Backing Down? Evidence on Donor Responses to Restrictive NGO Legislation</strong><br /><i>International Organization</i>, 2025.
 [[paper and appendix](/files/The_Effect_of_NGO_Laws_on_Bilateral_Aid_Flows.pdf){target="_blank"}][<a href="https://www.cambridge.org/core/journals/international-organization/article/pushing-back-or-backing-down-evidence-on-donor-responses-to-restrictive-ngo-legislation/9365B7A1D39A5548351ADEC6E4F09181" target="_blank" rel="noopener">online</a>]<br />
@@ -67,30 +75,31 @@ Second author, with Braeden Davis, David Dow, and Juan Tellez</p>
 ![](/files/img/ethiopia_experiments.png)
 :::
 :::
-::: {.grid  }
-::: {.g-col-8}
-<p style="font-size: 15px; text-align: justify;">It is widely believed that oil discoveries cause bad governance and conflict. However, research on the political resource curse argues that oil often increases support for incumbent chief executives while the conflict curse literature suggests it erodes it, especially when discovered in opposition areas. We draw on research on distributive politics to theorize how the effects of oil on incumbent support will vary depending on whether it is discovered in core, swing, or opposition constituencies. Our findings, based on electoral and survey data from Uganda and a difference-in-differences design with heterogeneous effects, show that differential voter responsiveness to targeted oil benefits increased support for the incumbent when oil is discovered in swing constituencies. Ultimately, we highlight how the local political context shapes the effect of oil on the strength of support for the incumbent chief executive, with important implications for understanding the roots of both the political and conflict curses.</p>
-:::
-::: {.g-col-4}
-![](/files/img/psrm.png)
-:::
-:::
-
-
 
 ### Under Review
 
-<p><strong>Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda</strong><br />
-[[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br /></p>
+<p><strong>New Approaches to Forecasting Civil Violence and Geopolitical Crises</strong><br />
+with Mahda Soltani and Erik Wibbels<br />
+[[paper](/files/Forecasting_Scary_Events.pdf){target="_blank"}]</p>
 ::: {.grid  }
 ::: {.g-col-8}
-<p style="font-size: 15px; text-align: justify;">Most studies of electoral returns to foreign aid focus on projects implemented by aid-receiving governments and subject to political control. Recently, donors have sought to bypass political capture by channeling aid through NGOs. Combining fine-grained spatial data on aid and elections in Uganda, I show that although NGO-implementation reduces political influence, voters still reward incumbents for NGO projects. To isolate a causal effect, I use difference-in-differences designs, matching on covariates selected using machine learning, and a placebo test based on spatial lags. Using original survey data, I show that credit results from citizens seeing powerful politicians as controlling the allocation of NGO projects. Drawing on health, election, and campaign data and an extensive battery of tests, I provide additional evidence for the mechanism and rule-out alternative explanations. Even when designed to prevent political windfalls, development assistance may entail a trade-off between improving the welfare of citizens and strengthening autocrats.</p>
+<p style="font-size: 15px;  text-align: justify;">Forecasting the onset of geopolitical crises, such as armed conflict and state failure, presents a significant challenge due to the rarity of these events, the difficulty of predicting onsets as distinct from the continuation of crises, and the lack of high-frequency data on covariates that might capture rapidly evolving political and social dynamics. This study addresses these challenges by introducing three key innovations. First, we leverage data from the Machine Learning for Peace project, which provides monthly data on a wide range of civic space activity that we expect to provide insights into crisis onsets. Second, we propose a novel forecasting target: U.S. Department of State travel advisories, which provide a broader measure of geopolitical risk by encompassing diverse crises, including political violence, popular mobilization, repression, and health emergencies. Third, we introduce temporal cross-validation, an improved approach to time-series data, to the conflict literature. Our findings demonstrate that the combination of high-frequency data on civic space and our modeling approach improves the quality of both conflict and State Department travel warning onset forecasts.</p>
 :::
 ::: {.g-col-4}
-![](/files/img/wp2.png)
 :::
 :::
 
+<p><strong>Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence</strong><br />
+First author, with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels<br />
+[[paper](/files/rai_full_paper.pdf){target="_blank"}][[appendix](/files/rai_appendix.pdf){target="_blank"}]</p>
+::: {.grid  }
+::: {.g-col-8}
+<p style="font-size: 15px;  text-align: justify;">Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.</p>
+:::
+::: {.g-col-4}
+![](/files/img/changepoint_themes.png)
+:::
+:::
 
 <p><strong>The Effect of Government Intervention on the Operational Decisions of NGOs: Evidence from a Survey Experiment in Three Electoral Autocracies</strong><br />
 with Erik Wibbels, Maria Nagawa, Graeme Robertson, and Simon Hollerbauer<br />
@@ -119,15 +128,16 @@ with Sewareg Adamu, David Dow, Fitsum Hailu, Mesele Mengsteab, and Juan Tellez<b
 
 
 
-<p><strong>Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence</strong><br />
-First author, with Fatih Serkant Adiguzel, Mateo Villamizar Chaparro, Zung-Ru Lin, Donald Moratz, Diego Romero, and Erik Wibbels<br />
-[[paper](/files/rai_full_paper.pdf){target="_blank"}][[appendix](/files/rai_appendix.pdf){target="_blank"}]</p>
+
+
+<p><strong>Aid Flows and Incumbency Advantage: Evidence from NGO Projects in Uganda</strong><br />
+[[paper](/files/preprint_wp.pdf){target="_blank"}][[appendix](/files/appendix_wp.pdf){target="_blank"}]<br /></p>
 ::: {.grid  }
 ::: {.g-col-8}
-<p style="font-size: 15px;  text-align: justify;">Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.</p>
+<p style="font-size: 15px; text-align: justify;">Most studies of electoral returns to foreign aid focus on projects implemented by aid-receiving governments and subject to political control. Recently, donors have sought to bypass political capture by channeling aid through NGOs. Combining fine-grained spatial data on aid and elections in Uganda, I show that although NGO-implementation reduces political influence, voters still reward incumbents for NGO projects. To isolate a causal effect, I use difference-in-differences designs, matching on covariates selected using machine learning, and a placebo test based on spatial lags. Using original survey data, I show that credit results from citizens seeing powerful politicians as controlling the allocation of NGO projects. Drawing on health, election, and campaign data and an extensive battery of tests, I provide additional evidence for the mechanism and rule-out alternative explanations. Even when designed to prevent political windfalls, development assistance may entail a trade-off between improving the welfare of citizens and strengthening autocrats.</p>
 :::
 ::: {.g-col-4}
-![](/files/img/changepoint_themes.png)
+![](/files/img/wp2.png)
 :::
 :::
 

@@ -2,7 +2,6 @@
 
 ## About
 Research Scientist at Meta (DSS), formerly Research Assistant Professor at UPenn (PDRI-DevLab).
-Applying to industry research and data science/ML roles.
 
 ## Key Links
 - LinkedIn: https://www.linkedin.com/in/jrspringman/
